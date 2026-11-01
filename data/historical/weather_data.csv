@@ -1,0 +1,1645 @@
+date,location,state_or_region,temp_c,rainfall_mm,humidity_pct,weather_condition,eco_suitability_score
+2025-10-01,"Wayanad, Kerala",Kerala,21.2,12.2,78,Light Showers,0.83
+2025-10-01,"Nilgiris, Tamil Nadu",Tamil Nadu,21.6,4.2,72,Partly Cloudy,0.87
+2025-10-01,"Sundarbans, West Bengal",West Bengal,21.6,2.5,77,Partly Cloudy,0.86
+2025-10-01,"Coorg, Karnataka",Karnataka,22.2,2.4,83,Partly Cloudy,0.83
+2025-10-02,"Wayanad, Kerala",Kerala,25.9,11.4,70,Light Showers,0.89
+2025-10-02,"Nilgiris, Tamil Nadu",Tamil Nadu,23.5,4.6,78,Partly Cloudy,0.82
+2025-10-02,"Sundarbans, West Bengal",West Bengal,23.0,17.3,72,Light Showers,0.85
+2025-10-02,"Coorg, Karnataka",Karnataka,23.1,7.7,78,Partly Cloudy,0.9
+2025-10-03,"Wayanad, Kerala",Kerala,24.2,13.7,82,Light Showers,0.81
+2025-10-03,"Nilgiris, Tamil Nadu",Tamil Nadu,24.8,6.7,81,Partly Cloudy,0.87
+2025-10-03,"Sundarbans, West Bengal",West Bengal,21.3,13.3,77,Light Showers,0.89
+2025-10-03,"Coorg, Karnataka",Karnataka,26.1,17.8,73,Light Showers,0.85
+2025-10-04,"Wayanad, Kerala",Kerala,26.0,9.3,75,Light Showers,0.84
+2025-10-04,"Nilgiris, Tamil Nadu",Tamil Nadu,22.6,5.4,72,Partly Cloudy,0.87
+2025-10-04,"Sundarbans, West Bengal",West Bengal,25.4,4.7,75,Partly Cloudy,0.86
+2025-10-04,"Coorg, Karnataka",Karnataka,26.6,6.3,77,Partly Cloudy,0.88
+2025-10-05,"Wayanad, Kerala",Kerala,25.7,15.5,77,Light Showers,0.9
+2025-10-05,"Nilgiris, Tamil Nadu",Tamil Nadu,23.4,14.9,72,Light Showers,0.83
+2025-10-05,"Sundarbans, West Bengal",West Bengal,26.3,17.1,80,Light Showers,0.83
+2025-10-05,"Coorg, Karnataka",Karnataka,26.3,10.0,84,Light Showers,0.82
+2025-10-06,"Wayanad, Kerala",Kerala,25.5,4.2,78,Partly Cloudy,0.89
+2025-10-06,"Nilgiris, Tamil Nadu",Tamil Nadu,24.5,8.9,81,Light Showers,0.83
+2025-10-06,"Sundarbans, West Bengal",West Bengal,24.1,18.0,72,Light Showers,0.89
+2025-10-06,"Coorg, Karnataka",Karnataka,21.9,15.8,75,Light Showers,0.9
+2025-10-07,"Wayanad, Kerala",Kerala,21.4,8.8,82,Light Showers,0.87
+2025-10-07,"Nilgiris, Tamil Nadu",Tamil Nadu,22.5,9.5,70,Light Showers,0.88
+2025-10-07,"Sundarbans, West Bengal",West Bengal,26.3,3.8,78,Partly Cloudy,0.89
+2025-10-07,"Coorg, Karnataka",Karnataka,22.8,7.4,75,Partly Cloudy,0.85
+2025-10-08,"Wayanad, Kerala",Kerala,26.3,17.3,78,Light Showers,0.92
+2025-10-08,"Nilgiris, Tamil Nadu",Tamil Nadu,24.0,14.2,73,Light Showers,0.9
+2025-10-08,"Sundarbans, West Bengal",West Bengal,24.8,6.8,76,Partly Cloudy,0.82
+2025-10-08,"Coorg, Karnataka",Karnataka,24.2,14.2,70,Light Showers,0.87
+2025-10-09,"Wayanad, Kerala",Kerala,21.7,9.8,81,Light Showers,0.91
+2025-10-09,"Nilgiris, Tamil Nadu",Tamil Nadu,22.8,15.3,71,Light Showers,0.83
+2025-10-09,"Sundarbans, West Bengal",West Bengal,21.5,11.1,85,Light Showers,0.9
+2025-10-09,"Coorg, Karnataka",Karnataka,24.2,17.6,74,Light Showers,0.82
+2025-10-10,"Wayanad, Kerala",Kerala,24.3,9.6,78,Light Showers,0.86
+2025-10-10,"Nilgiris, Tamil Nadu",Tamil Nadu,26.8,11.7,76,Light Showers,0.89
+2025-10-10,"Sundarbans, West Bengal",West Bengal,25.0,8.4,81,Light Showers,0.85
+2025-10-10,"Coorg, Karnataka",Karnataka,21.7,10.3,77,Light Showers,0.81
+2025-10-11,"Wayanad, Kerala",Kerala,24.3,2.3,77,Partly Cloudy,0.8
+2025-10-11,"Nilgiris, Tamil Nadu",Tamil Nadu,21.4,13.3,72,Light Showers,0.91
+2025-10-11,"Sundarbans, West Bengal",West Bengal,21.4,15.8,77,Light Showers,0.83
+2025-10-11,"Coorg, Karnataka",Karnataka,24.2,9.8,85,Light Showers,0.83
+2025-10-12,"Wayanad, Kerala",Kerala,23.4,9.6,73,Light Showers,0.81
+2025-10-12,"Nilgiris, Tamil Nadu",Tamil Nadu,23.5,8.9,84,Light Showers,0.9
+2025-10-12,"Sundarbans, West Bengal",West Bengal,24.9,2.9,73,Partly Cloudy,0.81
+2025-10-12,"Coorg, Karnataka",Karnataka,25.8,13.7,73,Light Showers,0.83
+2025-10-13,"Wayanad, Kerala",Kerala,23.7,5.0,83,Partly Cloudy,0.82
+2025-10-13,"Nilgiris, Tamil Nadu",Tamil Nadu,26.2,9.4,72,Light Showers,0.85
+2025-10-13,"Sundarbans, West Bengal",West Bengal,24.3,15.8,71,Light Showers,0.88
+2025-10-13,"Coorg, Karnataka",Karnataka,21.1,10.6,72,Light Showers,0.91
+2025-10-14,"Wayanad, Kerala",Kerala,22.0,15.6,85,Light Showers,0.86
+2025-10-14,"Nilgiris, Tamil Nadu",Tamil Nadu,26.4,15.8,75,Light Showers,0.85
+2025-10-14,"Sundarbans, West Bengal",West Bengal,22.6,17.8,84,Light Showers,0.83
+2025-10-14,"Coorg, Karnataka",Karnataka,25.4,13.1,85,Light Showers,0.82
+2025-10-15,"Wayanad, Kerala",Kerala,26.8,6.7,71,Partly Cloudy,0.89
+2025-10-15,"Nilgiris, Tamil Nadu",Tamil Nadu,24.5,2.9,75,Partly Cloudy,0.81
+2025-10-15,"Sundarbans, West Bengal",West Bengal,26.1,10.1,72,Light Showers,0.87
+2025-10-15,"Coorg, Karnataka",Karnataka,22.4,12.8,73,Light Showers,0.91
+2025-10-16,"Wayanad, Kerala",Kerala,24.5,11.1,71,Light Showers,0.87
+2025-10-16,"Nilgiris, Tamil Nadu",Tamil Nadu,24.5,8.7,80,Light Showers,0.91
+2025-10-16,"Sundarbans, West Bengal",West Bengal,25.3,5.3,77,Partly Cloudy,0.83
+2025-10-16,"Coorg, Karnataka",Karnataka,24.9,4.1,84,Partly Cloudy,0.84
+2025-10-17,"Wayanad, Kerala",Kerala,21.4,14.0,84,Light Showers,0.87
+2025-10-17,"Nilgiris, Tamil Nadu",Tamil Nadu,21.6,11.0,76,Light Showers,0.86
+2025-10-17,"Sundarbans, West Bengal",West Bengal,23.1,4.1,72,Partly Cloudy,0.91
+2025-10-17,"Coorg, Karnataka",Karnataka,21.9,7.9,79,Partly Cloudy,0.87
+2025-10-18,"Wayanad, Kerala",Kerala,24.9,17.8,70,Light Showers,0.88
+2025-10-18,"Nilgiris, Tamil Nadu",Tamil Nadu,26.6,10.9,73,Light Showers,0.91
+2025-10-18,"Sundarbans, West Bengal",West Bengal,21.7,4.1,73,Partly Cloudy,0.89
+2025-10-18,"Coorg, Karnataka",Karnataka,22.7,4.5,76,Partly Cloudy,0.89
+2025-10-19,"Wayanad, Kerala",Kerala,24.8,5.3,78,Partly Cloudy,0.86
+2025-10-19,"Nilgiris, Tamil Nadu",Tamil Nadu,26.4,6.0,71,Partly Cloudy,0.81
+2025-10-19,"Sundarbans, West Bengal",West Bengal,22.7,8.8,70,Light Showers,0.84
+2025-10-19,"Coorg, Karnataka",Karnataka,26.9,4.1,75,Partly Cloudy,0.89
+2025-10-20,"Wayanad, Kerala",Kerala,23.6,10.8,70,Light Showers,0.81
+2025-10-20,"Nilgiris, Tamil Nadu",Tamil Nadu,25.1,17.1,74,Light Showers,0.87
+2025-10-20,"Sundarbans, West Bengal",West Bengal,24.5,15.4,74,Light Showers,0.85
+2025-10-20,"Coorg, Karnataka",Karnataka,23.2,2.7,71,Partly Cloudy,0.91
+2025-10-21,"Wayanad, Kerala",Kerala,22.5,5.4,73,Partly Cloudy,0.84
+2025-10-21,"Nilgiris, Tamil Nadu",Tamil Nadu,26.2,11.0,74,Light Showers,0.91
+2025-10-21,"Sundarbans, West Bengal",West Bengal,22.0,5.8,75,Partly Cloudy,0.91
+2025-10-21,"Coorg, Karnataka",Karnataka,25.4,2.4,80,Partly Cloudy,0.89
+2025-10-22,"Wayanad, Kerala",Kerala,25.0,8.6,77,Light Showers,0.83
+2025-10-22,"Nilgiris, Tamil Nadu",Tamil Nadu,21.6,14.6,71,Light Showers,0.9
+2025-10-22,"Sundarbans, West Bengal",West Bengal,25.9,5.6,84,Partly Cloudy,0.84
+2025-10-22,"Coorg, Karnataka",Karnataka,26.2,15.1,77,Light Showers,0.8
+2025-10-23,"Wayanad, Kerala",Kerala,23.0,5.1,72,Partly Cloudy,0.92
+2025-10-23,"Nilgiris, Tamil Nadu",Tamil Nadu,24.8,6.5,82,Partly Cloudy,0.88
+2025-10-23,"Sundarbans, West Bengal",West Bengal,23.0,15.5,70,Light Showers,0.81
+2025-10-23,"Coorg, Karnataka",Karnataka,22.1,17.5,78,Light Showers,0.8
+2025-10-24,"Wayanad, Kerala",Kerala,23.1,11.5,80,Light Showers,0.85
+2025-10-24,"Nilgiris, Tamil Nadu",Tamil Nadu,21.7,17.7,76,Light Showers,0.83
+2025-10-24,"Sundarbans, West Bengal",West Bengal,21.0,13.3,76,Light Showers,0.84
+2025-10-24,"Coorg, Karnataka",Karnataka,25.0,3.1,80,Partly Cloudy,0.87
+2025-10-25,"Wayanad, Kerala",Kerala,21.7,12.6,79,Light Showers,0.86
+2025-10-25,"Nilgiris, Tamil Nadu",Tamil Nadu,23.0,12.7,79,Light Showers,0.87
+2025-10-25,"Sundarbans, West Bengal",West Bengal,25.0,5.1,82,Partly Cloudy,0.88
+2025-10-25,"Coorg, Karnataka",Karnataka,24.7,16.4,79,Light Showers,0.85
+2025-10-26,"Wayanad, Kerala",Kerala,22.8,15.3,76,Light Showers,0.85
+2025-10-26,"Nilgiris, Tamil Nadu",Tamil Nadu,24.9,11.3,84,Light Showers,0.85
+2025-10-26,"Sundarbans, West Bengal",West Bengal,24.1,12.8,75,Light Showers,0.88
+2025-10-26,"Coorg, Karnataka",Karnataka,25.0,6.5,80,Partly Cloudy,0.81
+2025-10-27,"Wayanad, Kerala",Kerala,22.4,17.2,79,Light Showers,0.83
+2025-10-27,"Nilgiris, Tamil Nadu",Tamil Nadu,21.1,5.2,77,Partly Cloudy,0.92
+2025-10-27,"Sundarbans, West Bengal",West Bengal,25.6,11.8,84,Light Showers,0.85
+2025-10-27,"Coorg, Karnataka",Karnataka,22.2,12.1,82,Light Showers,0.86
+2025-10-28,"Wayanad, Kerala",Kerala,24.9,5.9,70,Partly Cloudy,0.91
+2025-10-28,"Nilgiris, Tamil Nadu",Tamil Nadu,26.3,15.8,83,Light Showers,0.83
+2025-10-28,"Sundarbans, West Bengal",West Bengal,25.2,14.9,84,Light Showers,0.81
+2025-10-28,"Coorg, Karnataka",Karnataka,26.1,6.0,84,Partly Cloudy,0.82
+2025-10-29,"Wayanad, Kerala",Kerala,24.2,9.4,80,Light Showers,0.91
+2025-10-29,"Nilgiris, Tamil Nadu",Tamil Nadu,24.7,16.3,83,Light Showers,0.9
+2025-10-29,"Sundarbans, West Bengal",West Bengal,26.4,10.8,85,Light Showers,0.85
+2025-10-29,"Coorg, Karnataka",Karnataka,26.0,14.0,78,Light Showers,0.89
+2025-10-30,"Wayanad, Kerala",Kerala,24.8,10.3,78,Light Showers,0.85
+2025-10-30,"Nilgiris, Tamil Nadu",Tamil Nadu,22.4,13.4,80,Light Showers,0.84
+2025-10-30,"Sundarbans, West Bengal",West Bengal,21.8,10.6,77,Light Showers,0.85
+2025-10-30,"Coorg, Karnataka",Karnataka,22.3,4.4,83,Partly Cloudy,0.85
+2025-10-31,"Wayanad, Kerala",Kerala,23.5,10.7,76,Light Showers,0.9
+2025-10-31,"Nilgiris, Tamil Nadu",Tamil Nadu,25.6,8.2,70,Light Showers,0.9
+2025-10-31,"Sundarbans, West Bengal",West Bengal,23.3,14.2,70,Light Showers,0.91
+2025-10-31,"Coorg, Karnataka",Karnataka,23.3,6.8,83,Partly Cloudy,0.86
+2025-11-01,"Wayanad, Kerala",Kerala,24.4,2.9,62,Clear & Sunny,0.93
+2025-11-01,"Nilgiris, Tamil Nadu",Tamil Nadu,17.1,1.9,67,Clear & Sunny,0.98
+2025-11-01,"Sundarbans, West Bengal",West Bengal,25.8,3.7,72,Pleasant Breeze,0.94
+2025-11-01,"Coorg, Karnataka",Karnataka,18.2,2.3,75,Clear & Sunny,0.99
+2025-11-02,"Wayanad, Kerala",Kerala,20.1,0.7,65,Pleasant Breeze,0.93
+2025-11-02,"Nilgiris, Tamil Nadu",Tamil Nadu,17.0,3.0,68,Clear & Sunny,0.91
+2025-11-02,"Sundarbans, West Bengal",West Bengal,22.3,0.1,66,Pleasant Breeze,0.91
+2025-11-02,"Coorg, Karnataka",Karnataka,18.3,3.8,55,Clear & Sunny,0.92
+2025-11-03,"Wayanad, Kerala",Kerala,19.2,0.1,59,Clear & Sunny,0.91
+2025-11-03,"Nilgiris, Tamil Nadu",Tamil Nadu,17.7,3.8,63,Clear & Sunny,0.92
+2025-11-03,"Sundarbans, West Bengal",West Bengal,24.0,2.4,58,Clear & Sunny,0.92
+2025-11-03,"Coorg, Karnataka",Karnataka,22.6,1.2,64,Clear & Sunny,0.99
+2025-11-04,"Wayanad, Kerala",Kerala,25.5,1.5,61,Pleasant Breeze,0.97
+2025-11-04,"Nilgiris, Tamil Nadu",Tamil Nadu,14.8,2.5,64,Clear & Sunny,0.96
+2025-11-04,"Sundarbans, West Bengal",West Bengal,25.9,0.5,56,Clear & Sunny,0.94
+2025-11-04,"Coorg, Karnataka",Karnataka,22.0,1.5,65,Pleasant Breeze,0.94
+2025-11-05,"Wayanad, Kerala",Kerala,21.5,2.0,66,Clear & Sunny,0.98
+2025-11-05,"Nilgiris, Tamil Nadu",Tamil Nadu,17.5,2.8,71,Clear & Sunny,0.93
+2025-11-05,"Sundarbans, West Bengal",West Bengal,22.3,3.2,70,Clear & Sunny,0.98
+2025-11-05,"Coorg, Karnataka",Karnataka,20.6,2.4,62,Clear & Sunny,0.91
+2025-11-06,"Wayanad, Kerala",Kerala,20.0,3.5,69,Clear & Sunny,0.97
+2025-11-06,"Nilgiris, Tamil Nadu",Tamil Nadu,18.0,1.3,65,Pleasant Breeze,0.92
+2025-11-06,"Sundarbans, West Bengal",West Bengal,20.7,3.2,74,Clear & Sunny,0.93
+2025-11-06,"Coorg, Karnataka",Karnataka,25.6,0.0,57,Pleasant Breeze,0.94
+2025-11-07,"Wayanad, Kerala",Kerala,19.9,2.2,70,Clear & Sunny,0.95
+2025-11-07,"Nilgiris, Tamil Nadu",Tamil Nadu,14.7,3.2,62,Clear & Sunny,0.92
+2025-11-07,"Sundarbans, West Bengal",West Bengal,21.0,2.7,72,Clear & Sunny,0.94
+2025-11-07,"Coorg, Karnataka",Karnataka,20.6,3.0,69,Clear & Sunny,0.93
+2025-11-08,"Wayanad, Kerala",Kerala,19.5,0.5,58,Clear & Sunny,1.0
+2025-11-08,"Nilgiris, Tamil Nadu",Tamil Nadu,15.5,2.8,70,Clear & Sunny,0.96
+2025-11-08,"Sundarbans, West Bengal",West Bengal,22.8,3.0,58,Clear & Sunny,0.93
+2025-11-08,"Coorg, Karnataka",Karnataka,20.4,1.4,72,Pleasant Breeze,0.9
+2025-11-09,"Wayanad, Kerala",Kerala,20.3,0.2,59,Clear & Sunny,0.98
+2025-11-09,"Nilgiris, Tamil Nadu",Tamil Nadu,14.1,0.4,64,Clear & Sunny,0.94
+2025-11-09,"Sundarbans, West Bengal",West Bengal,18.4,0.7,70,Pleasant Breeze,0.91
+2025-11-09,"Coorg, Karnataka",Karnataka,22.6,2.0,56,Pleasant Breeze,0.98
+2025-11-10,"Wayanad, Kerala",Kerala,18.7,3.8,62,Pleasant Breeze,0.98
+2025-11-10,"Nilgiris, Tamil Nadu",Tamil Nadu,20.3,2.4,62,Clear & Sunny,0.94
+2025-11-10,"Sundarbans, West Bengal",West Bengal,20.4,3.6,73,Clear & Sunny,0.93
+2025-11-10,"Coorg, Karnataka",Karnataka,22.9,2.5,58,Clear & Sunny,0.92
+2025-11-11,"Wayanad, Kerala",Kerala,23.3,0.8,60,Pleasant Breeze,0.96
+2025-11-11,"Nilgiris, Tamil Nadu",Tamil Nadu,17.3,0.6,74,Clear & Sunny,0.9
+2025-11-11,"Sundarbans, West Bengal",West Bengal,20.3,1.2,69,Pleasant Breeze,0.92
+2025-11-11,"Coorg, Karnataka",Karnataka,24.3,1.1,73,Clear & Sunny,0.99
+2025-11-12,"Wayanad, Kerala",Kerala,22.4,1.7,75,Pleasant Breeze,0.93
+2025-11-12,"Nilgiris, Tamil Nadu",Tamil Nadu,14.5,0.6,64,Clear & Sunny,0.98
+2025-11-12,"Sundarbans, West Bengal",West Bengal,21.5,3.7,69,Clear & Sunny,0.97
+2025-11-12,"Coorg, Karnataka",Karnataka,22.0,3.8,70,Clear & Sunny,0.96
+2025-11-13,"Wayanad, Kerala",Kerala,23.9,3.6,74,Clear & Sunny,0.91
+2025-11-13,"Nilgiris, Tamil Nadu",Tamil Nadu,20.7,3.8,73,Clear & Sunny,0.9
+2025-11-13,"Sundarbans, West Bengal",West Bengal,24.6,3.1,73,Pleasant Breeze,0.98
+2025-11-13,"Coorg, Karnataka",Karnataka,23.2,1.9,63,Pleasant Breeze,0.96
+2025-11-14,"Wayanad, Kerala",Kerala,21.9,2.5,57,Clear & Sunny,0.94
+2025-11-14,"Nilgiris, Tamil Nadu",Tamil Nadu,14.8,1.3,60,Clear & Sunny,0.97
+2025-11-14,"Sundarbans, West Bengal",West Bengal,25.6,1.2,72,Pleasant Breeze,0.91
+2025-11-14,"Coorg, Karnataka",Karnataka,18.9,1.0,67,Clear & Sunny,0.98
+2025-11-15,"Wayanad, Kerala",Kerala,25.0,0.0,69,Clear & Sunny,0.92
+2025-11-15,"Nilgiris, Tamil Nadu",Tamil Nadu,20.1,1.4,75,Clear & Sunny,0.91
+2025-11-15,"Sundarbans, West Bengal",West Bengal,19.0,1.1,64,Clear & Sunny,0.97
+2025-11-15,"Coorg, Karnataka",Karnataka,25.8,0.5,74,Clear & Sunny,0.97
+2025-11-16,"Wayanad, Kerala",Kerala,18.1,1.2,68,Pleasant Breeze,1.0
+2025-11-16,"Nilgiris, Tamil Nadu",Tamil Nadu,17.7,3.7,58,Clear & Sunny,0.92
+2025-11-16,"Sundarbans, West Bengal",West Bengal,20.3,3.7,63,Clear & Sunny,0.95
+2025-11-16,"Coorg, Karnataka",Karnataka,21.7,1.9,59,Clear & Sunny,0.99
+2025-11-17,"Wayanad, Kerala",Kerala,25.0,2.0,57,Clear & Sunny,0.98
+2025-11-17,"Nilgiris, Tamil Nadu",Tamil Nadu,21.5,1.7,71,Clear & Sunny,0.9
+2025-11-17,"Sundarbans, West Bengal",West Bengal,24.7,2.9,73,Clear & Sunny,0.95
+2025-11-17,"Coorg, Karnataka",Karnataka,22.3,0.6,66,Clear & Sunny,0.98
+2025-11-18,"Wayanad, Kerala",Kerala,25.5,1.5,61,Clear & Sunny,0.92
+2025-11-18,"Nilgiris, Tamil Nadu",Tamil Nadu,20.8,1.5,68,Pleasant Breeze,0.97
+2025-11-18,"Sundarbans, West Bengal",West Bengal,24.5,2.8,67,Clear & Sunny,0.98
+2025-11-18,"Coorg, Karnataka",Karnataka,19.2,2.6,56,Pleasant Breeze,1.0
+2025-11-19,"Wayanad, Kerala",Kerala,18.8,1.3,69,Pleasant Breeze,0.99
+2025-11-19,"Nilgiris, Tamil Nadu",Tamil Nadu,15.2,0.1,75,Clear & Sunny,0.91
+2025-11-19,"Sundarbans, West Bengal",West Bengal,20.1,3.1,74,Clear & Sunny,0.96
+2025-11-19,"Coorg, Karnataka",Karnataka,24.8,3.4,72,Clear & Sunny,0.93
+2025-11-20,"Wayanad, Kerala",Kerala,24.1,2.9,72,Pleasant Breeze,0.91
+2025-11-20,"Nilgiris, Tamil Nadu",Tamil Nadu,21.4,2.5,62,Clear & Sunny,0.94
+2025-11-20,"Sundarbans, West Bengal",West Bengal,23.1,0.4,58,Clear & Sunny,0.97
+2025-11-20,"Coorg, Karnataka",Karnataka,18.4,3.6,56,Clear & Sunny,0.94
+2025-11-21,"Wayanad, Kerala",Kerala,22.2,0.6,73,Clear & Sunny,0.92
+2025-11-21,"Nilgiris, Tamil Nadu",Tamil Nadu,18.9,0.7,67,Clear & Sunny,0.92
+2025-11-21,"Sundarbans, West Bengal",West Bengal,19.1,3.7,69,Clear & Sunny,0.95
+2025-11-21,"Coorg, Karnataka",Karnataka,25.2,2.7,69,Clear & Sunny,0.97
+2025-11-22,"Wayanad, Kerala",Kerala,21.5,0.6,66,Clear & Sunny,0.93
+2025-11-22,"Nilgiris, Tamil Nadu",Tamil Nadu,19.5,3.8,69,Clear & Sunny,0.92
+2025-11-22,"Sundarbans, West Bengal",West Bengal,21.9,1.5,62,Clear & Sunny,0.94
+2025-11-22,"Coorg, Karnataka",Karnataka,23.6,1.2,55,Clear & Sunny,0.97
+2025-11-23,"Wayanad, Kerala",Kerala,22.5,1.1,56,Clear & Sunny,0.97
+2025-11-23,"Nilgiris, Tamil Nadu",Tamil Nadu,21.2,3.3,62,Clear & Sunny,0.94
+2025-11-23,"Sundarbans, West Bengal",West Bengal,23.0,2.5,59,Clear & Sunny,0.99
+2025-11-23,"Coorg, Karnataka",Karnataka,20.5,2.6,69,Pleasant Breeze,0.94
+2025-11-24,"Wayanad, Kerala",Kerala,25.3,0.5,65,Clear & Sunny,0.92
+2025-11-24,"Nilgiris, Tamil Nadu",Tamil Nadu,18.3,0.5,66,Clear & Sunny,0.99
+2025-11-24,"Sundarbans, West Bengal",West Bengal,20.1,3.3,70,Clear & Sunny,0.93
+2025-11-24,"Coorg, Karnataka",Karnataka,24.4,3.5,69,Clear & Sunny,0.91
+2025-11-25,"Wayanad, Kerala",Kerala,24.9,3.9,67,Clear & Sunny,0.98
+2025-11-25,"Nilgiris, Tamil Nadu",Tamil Nadu,20.3,1.5,55,Clear & Sunny,0.91
+2025-11-25,"Sundarbans, West Bengal",West Bengal,24.0,1.5,63,Clear & Sunny,0.98
+2025-11-25,"Coorg, Karnataka",Karnataka,18.9,3.8,62,Clear & Sunny,0.96
+2025-11-26,"Wayanad, Kerala",Kerala,20.6,3.8,74,Pleasant Breeze,0.91
+2025-11-26,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,3.3,64,Clear & Sunny,0.91
+2025-11-26,"Sundarbans, West Bengal",West Bengal,18.3,0.2,70,Pleasant Breeze,0.92
+2025-11-26,"Coorg, Karnataka",Karnataka,21.1,2.2,66,Clear & Sunny,0.97
+2025-11-27,"Wayanad, Kerala",Kerala,21.4,3.8,59,Clear & Sunny,0.97
+2025-11-27,"Nilgiris, Tamil Nadu",Tamil Nadu,18.9,3.3,63,Pleasant Breeze,0.94
+2025-11-27,"Sundarbans, West Bengal",West Bengal,25.6,1.8,66,Pleasant Breeze,0.97
+2025-11-27,"Coorg, Karnataka",Karnataka,25.8,2.2,66,Pleasant Breeze,0.93
+2025-11-28,"Wayanad, Kerala",Kerala,25.6,3.9,69,Pleasant Breeze,0.92
+2025-11-28,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,2.6,56,Clear & Sunny,0.92
+2025-11-28,"Sundarbans, West Bengal",West Bengal,22.5,0.5,57,Clear & Sunny,0.96
+2025-11-28,"Coorg, Karnataka",Karnataka,24.5,2.3,62,Clear & Sunny,0.91
+2025-11-29,"Wayanad, Kerala",Kerala,18.0,3.6,59,Clear & Sunny,0.95
+2025-11-29,"Nilgiris, Tamil Nadu",Tamil Nadu,14.9,3.2,55,Pleasant Breeze,0.94
+2025-11-29,"Sundarbans, West Bengal",West Bengal,22.7,3.2,55,Pleasant Breeze,0.91
+2025-11-29,"Coorg, Karnataka",Karnataka,22.2,3.0,57,Clear & Sunny,0.98
+2025-11-30,"Wayanad, Kerala",Kerala,18.9,2.1,71,Pleasant Breeze,0.96
+2025-11-30,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,2.9,71,Clear & Sunny,0.96
+2025-11-30,"Sundarbans, West Bengal",West Bengal,26.0,0.1,67,Clear & Sunny,0.91
+2025-11-30,"Coorg, Karnataka",Karnataka,21.5,2.8,57,Clear & Sunny,0.91
+2025-12-01,"Wayanad, Kerala",Kerala,23.0,0.5,73,Clear & Sunny,0.93
+2025-12-01,"Nilgiris, Tamil Nadu",Tamil Nadu,18.2,4.0,69,Clear & Sunny,0.94
+2025-12-01,"Sundarbans, West Bengal",West Bengal,18.9,3.2,75,Clear & Sunny,0.98
+2025-12-01,"Coorg, Karnataka",Karnataka,19.7,2.9,69,Clear & Sunny,0.94
+2025-12-02,"Wayanad, Kerala",Kerala,21.2,3.3,58,Clear & Sunny,0.93
+2025-12-02,"Nilgiris, Tamil Nadu",Tamil Nadu,21.6,1.0,70,Pleasant Breeze,0.98
+2025-12-02,"Sundarbans, West Bengal",West Bengal,18.8,0.4,66,Clear & Sunny,0.96
+2025-12-02,"Coorg, Karnataka",Karnataka,22.5,2.3,65,Clear & Sunny,0.94
+2025-12-03,"Wayanad, Kerala",Kerala,25.5,3.5,68,Clear & Sunny,0.97
+2025-12-03,"Nilgiris, Tamil Nadu",Tamil Nadu,18.8,3.9,66,Pleasant Breeze,0.95
+2025-12-03,"Sundarbans, West Bengal",West Bengal,21.9,0.6,58,Clear & Sunny,0.96
+2025-12-03,"Coorg, Karnataka",Karnataka,20.2,0.5,62,Clear & Sunny,0.98
+2025-12-04,"Wayanad, Kerala",Kerala,24.5,3.9,74,Clear & Sunny,0.96
+2025-12-04,"Nilgiris, Tamil Nadu",Tamil Nadu,19.3,2.4,63,Pleasant Breeze,0.93
+2025-12-04,"Sundarbans, West Bengal",West Bengal,25.4,3.0,66,Pleasant Breeze,0.99
+2025-12-04,"Coorg, Karnataka",Karnataka,21.2,2.3,59,Clear & Sunny,1.0
+2025-12-05,"Wayanad, Kerala",Kerala,22.2,0.4,67,Clear & Sunny,0.93
+2025-12-05,"Nilgiris, Tamil Nadu",Tamil Nadu,19.8,1.5,73,Clear & Sunny,0.99
+2025-12-05,"Sundarbans, West Bengal",West Bengal,24.0,0.6,56,Clear & Sunny,0.93
+2025-12-05,"Coorg, Karnataka",Karnataka,21.9,2.6,69,Clear & Sunny,0.92
+2025-12-06,"Wayanad, Kerala",Kerala,20.8,2.0,58,Clear & Sunny,0.97
+2025-12-06,"Nilgiris, Tamil Nadu",Tamil Nadu,19.3,1.9,56,Pleasant Breeze,1.0
+2025-12-06,"Sundarbans, West Bengal",West Bengal,19.6,0.2,61,Clear & Sunny,0.98
+2025-12-06,"Coorg, Karnataka",Karnataka,19.0,1.2,70,Clear & Sunny,0.92
+2025-12-07,"Wayanad, Kerala",Kerala,23.6,1.5,71,Clear & Sunny,0.97
+2025-12-07,"Nilgiris, Tamil Nadu",Tamil Nadu,17.2,1.4,56,Clear & Sunny,0.95
+2025-12-07,"Sundarbans, West Bengal",West Bengal,20.5,0.3,68,Clear & Sunny,0.97
+2025-12-07,"Coorg, Karnataka",Karnataka,18.9,1.7,55,Clear & Sunny,0.92
+2025-12-08,"Wayanad, Kerala",Kerala,21.7,3.8,66,Pleasant Breeze,0.98
+2025-12-08,"Nilgiris, Tamil Nadu",Tamil Nadu,18.7,1.0,71,Pleasant Breeze,0.99
+2025-12-08,"Sundarbans, West Bengal",West Bengal,19.8,3.0,60,Pleasant Breeze,0.96
+2025-12-08,"Coorg, Karnataka",Karnataka,19.6,2.1,66,Clear & Sunny,1.0
+2025-12-09,"Wayanad, Kerala",Kerala,19.2,2.6,58,Pleasant Breeze,0.92
+2025-12-09,"Nilgiris, Tamil Nadu",Tamil Nadu,20.1,2.4,75,Pleasant Breeze,1.0
+2025-12-09,"Sundarbans, West Bengal",West Bengal,21.7,2.5,73,Clear & Sunny,0.94
+2025-12-09,"Coorg, Karnataka",Karnataka,22.5,3.7,75,Clear & Sunny,0.93
+2025-12-10,"Wayanad, Kerala",Kerala,20.5,3.9,69,Pleasant Breeze,0.94
+2025-12-10,"Nilgiris, Tamil Nadu",Tamil Nadu,16.2,1.2,56,Clear & Sunny,0.91
+2025-12-10,"Sundarbans, West Bengal",West Bengal,18.3,1.8,66,Clear & Sunny,0.91
+2025-12-10,"Coorg, Karnataka",Karnataka,24.8,3.5,74,Clear & Sunny,0.94
+2025-12-11,"Wayanad, Kerala",Kerala,25.6,2.3,56,Clear & Sunny,0.98
+2025-12-11,"Nilgiris, Tamil Nadu",Tamil Nadu,16.6,2.6,70,Clear & Sunny,1.0
+2025-12-11,"Sundarbans, West Bengal",West Bengal,24.5,1.8,65,Clear & Sunny,0.91
+2025-12-11,"Coorg, Karnataka",Karnataka,18.3,2.6,69,Clear & Sunny,0.95
+2025-12-12,"Wayanad, Kerala",Kerala,20.9,2.4,64,Clear & Sunny,0.98
+2025-12-12,"Nilgiris, Tamil Nadu",Tamil Nadu,14.4,2.7,75,Clear & Sunny,0.91
+2025-12-12,"Sundarbans, West Bengal",West Bengal,23.4,0.4,64,Clear & Sunny,0.99
+2025-12-12,"Coorg, Karnataka",Karnataka,22.8,3.9,59,Clear & Sunny,0.96
+2025-12-13,"Wayanad, Kerala",Kerala,20.8,0.6,75,Clear & Sunny,0.94
+2025-12-13,"Nilgiris, Tamil Nadu",Tamil Nadu,21.5,2.4,64,Clear & Sunny,0.96
+2025-12-13,"Sundarbans, West Bengal",West Bengal,19.0,1.3,71,Pleasant Breeze,0.97
+2025-12-13,"Coorg, Karnataka",Karnataka,18.1,2.0,64,Pleasant Breeze,0.92
+2025-12-14,"Wayanad, Kerala",Kerala,21.9,3.8,62,Clear & Sunny,0.92
+2025-12-14,"Nilgiris, Tamil Nadu",Tamil Nadu,20.3,1.2,71,Clear & Sunny,0.98
+2025-12-14,"Sundarbans, West Bengal",West Bengal,18.3,3.5,65,Clear & Sunny,0.96
+2025-12-14,"Coorg, Karnataka",Karnataka,19.2,2.4,60,Clear & Sunny,0.98
+2025-12-15,"Wayanad, Kerala",Kerala,19.3,3.2,69,Pleasant Breeze,0.94
+2025-12-15,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,2.9,74,Clear & Sunny,0.97
+2025-12-15,"Sundarbans, West Bengal",West Bengal,22.3,1.8,64,Clear & Sunny,0.98
+2025-12-15,"Coorg, Karnataka",Karnataka,19.6,3.6,73,Clear & Sunny,0.95
+2025-12-16,"Wayanad, Kerala",Kerala,21.1,1.1,71,Clear & Sunny,0.92
+2025-12-16,"Nilgiris, Tamil Nadu",Tamil Nadu,18.8,0.8,63,Pleasant Breeze,0.95
+2025-12-16,"Sundarbans, West Bengal",West Bengal,25.5,1.5,71,Clear & Sunny,0.93
+2025-12-16,"Coorg, Karnataka",Karnataka,20.2,3.1,71,Pleasant Breeze,0.94
+2025-12-17,"Wayanad, Kerala",Kerala,19.8,3.8,69,Clear & Sunny,0.99
+2025-12-17,"Nilgiris, Tamil Nadu",Tamil Nadu,17.2,1.7,66,Pleasant Breeze,1.0
+2025-12-17,"Sundarbans, West Bengal",West Bengal,18.2,1.5,58,Clear & Sunny,0.96
+2025-12-17,"Coorg, Karnataka",Karnataka,19.1,3.2,64,Clear & Sunny,0.95
+2025-12-18,"Wayanad, Kerala",Kerala,24.1,3.3,70,Clear & Sunny,0.9
+2025-12-18,"Nilgiris, Tamil Nadu",Tamil Nadu,16.0,0.3,59,Clear & Sunny,0.97
+2025-12-18,"Sundarbans, West Bengal",West Bengal,18.9,2.1,64,Pleasant Breeze,0.91
+2025-12-18,"Coorg, Karnataka",Karnataka,23.1,1.0,74,Clear & Sunny,0.91
+2025-12-19,"Wayanad, Kerala",Kerala,22.8,3.6,55,Clear & Sunny,0.96
+2025-12-19,"Nilgiris, Tamil Nadu",Tamil Nadu,16.3,2.9,55,Clear & Sunny,0.92
+2025-12-19,"Sundarbans, West Bengal",West Bengal,23.3,1.7,57,Clear & Sunny,0.94
+2025-12-19,"Coorg, Karnataka",Karnataka,22.4,3.8,71,Clear & Sunny,0.94
+2025-12-20,"Wayanad, Kerala",Kerala,23.1,1.9,66,Clear & Sunny,0.9
+2025-12-20,"Nilgiris, Tamil Nadu",Tamil Nadu,16.8,3.2,75,Pleasant Breeze,0.96
+2025-12-20,"Sundarbans, West Bengal",West Bengal,19.1,3.0,66,Clear & Sunny,0.98
+2025-12-20,"Coorg, Karnataka",Karnataka,24.2,0.7,69,Clear & Sunny,0.95
+2025-12-21,"Wayanad, Kerala",Kerala,19.1,0.7,69,Pleasant Breeze,0.92
+2025-12-21,"Nilgiris, Tamil Nadu",Tamil Nadu,21.1,3.2,65,Clear & Sunny,0.95
+2025-12-21,"Sundarbans, West Bengal",West Bengal,22.3,4.0,63,Pleasant Breeze,0.96
+2025-12-21,"Coorg, Karnataka",Karnataka,24.9,1.1,56,Clear & Sunny,0.93
+2025-12-22,"Wayanad, Kerala",Kerala,20.9,0.5,67,Clear & Sunny,0.99
+2025-12-22,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,1.5,70,Clear & Sunny,0.94
+2025-12-22,"Sundarbans, West Bengal",West Bengal,20.1,3.2,57,Clear & Sunny,0.91
+2025-12-22,"Coorg, Karnataka",Karnataka,24.6,2.4,72,Clear & Sunny,0.91
+2025-12-23,"Wayanad, Kerala",Kerala,20.4,1.3,69,Clear & Sunny,0.94
+2025-12-23,"Nilgiris, Tamil Nadu",Tamil Nadu,16.8,2.8,56,Clear & Sunny,0.99
+2025-12-23,"Sundarbans, West Bengal",West Bengal,21.5,2.5,75,Clear & Sunny,0.99
+2025-12-23,"Coorg, Karnataka",Karnataka,23.1,0.3,66,Clear & Sunny,0.97
+2025-12-24,"Wayanad, Kerala",Kerala,18.2,0.6,74,Clear & Sunny,0.94
+2025-12-24,"Nilgiris, Tamil Nadu",Tamil Nadu,15.9,0.5,75,Clear & Sunny,0.94
+2025-12-24,"Sundarbans, West Bengal",West Bengal,22.8,2.3,69,Clear & Sunny,0.94
+2025-12-24,"Coorg, Karnataka",Karnataka,22.6,3.1,71,Clear & Sunny,0.93
+2025-12-25,"Wayanad, Kerala",Kerala,25.7,1.1,55,Clear & Sunny,0.95
+2025-12-25,"Nilgiris, Tamil Nadu",Tamil Nadu,18.5,1.5,63,Clear & Sunny,0.97
+2025-12-25,"Sundarbans, West Bengal",West Bengal,22.9,0.9,70,Pleasant Breeze,0.91
+2025-12-25,"Coorg, Karnataka",Karnataka,19.4,0.3,69,Clear & Sunny,0.98
+2025-12-26,"Wayanad, Kerala",Kerala,25.9,3.9,66,Clear & Sunny,0.95
+2025-12-26,"Nilgiris, Tamil Nadu",Tamil Nadu,16.4,1.2,60,Clear & Sunny,0.99
+2025-12-26,"Sundarbans, West Bengal",West Bengal,24.3,2.6,71,Pleasant Breeze,1.0
+2025-12-26,"Coorg, Karnataka",Karnataka,19.9,3.2,70,Pleasant Breeze,0.96
+2025-12-27,"Wayanad, Kerala",Kerala,24.4,1.5,72,Pleasant Breeze,0.99
+2025-12-27,"Nilgiris, Tamil Nadu",Tamil Nadu,17.2,0.3,70,Clear & Sunny,0.98
+2025-12-27,"Sundarbans, West Bengal",West Bengal,18.6,3.3,65,Clear & Sunny,0.94
+2025-12-27,"Coorg, Karnataka",Karnataka,20.8,2.7,72,Clear & Sunny,0.92
+2025-12-28,"Wayanad, Kerala",Kerala,21.5,3.9,56,Clear & Sunny,0.95
+2025-12-28,"Nilgiris, Tamil Nadu",Tamil Nadu,15.3,1.2,62,Clear & Sunny,0.99
+2025-12-28,"Sundarbans, West Bengal",West Bengal,24.8,3.6,63,Pleasant Breeze,1.0
+2025-12-28,"Coorg, Karnataka",Karnataka,23.0,1.1,74,Clear & Sunny,0.95
+2025-12-29,"Wayanad, Kerala",Kerala,25.5,0.7,59,Pleasant Breeze,0.96
+2025-12-29,"Nilgiris, Tamil Nadu",Tamil Nadu,16.7,3.6,73,Pleasant Breeze,0.99
+2025-12-29,"Sundarbans, West Bengal",West Bengal,25.6,0.3,73,Clear & Sunny,0.92
+2025-12-29,"Coorg, Karnataka",Karnataka,22.9,2.3,55,Clear & Sunny,0.96
+2025-12-30,"Wayanad, Kerala",Kerala,25.7,1.2,70,Pleasant Breeze,0.98
+2025-12-30,"Nilgiris, Tamil Nadu",Tamil Nadu,17.6,1.6,56,Pleasant Breeze,0.94
+2025-12-30,"Sundarbans, West Bengal",West Bengal,20.7,1.9,59,Clear & Sunny,0.97
+2025-12-30,"Coorg, Karnataka",Karnataka,24.9,2.9,67,Pleasant Breeze,0.94
+2025-12-31,"Wayanad, Kerala",Kerala,20.6,2.2,69,Pleasant Breeze,0.94
+2025-12-31,"Nilgiris, Tamil Nadu",Tamil Nadu,14.4,0.6,67,Clear & Sunny,0.94
+2025-12-31,"Sundarbans, West Bengal",West Bengal,25.2,3.9,65,Clear & Sunny,0.97
+2025-12-31,"Coorg, Karnataka",Karnataka,19.3,0.8,71,Clear & Sunny,0.99
+2026-01-01,"Wayanad, Kerala",Kerala,18.7,2.0,67,Clear & Sunny,1.0
+2026-01-01,"Nilgiris, Tamil Nadu",Tamil Nadu,16.8,0.9,56,Clear & Sunny,0.96
+2026-01-01,"Sundarbans, West Bengal",West Bengal,23.4,3.4,64,Clear & Sunny,0.98
+2026-01-01,"Coorg, Karnataka",Karnataka,25.1,1.7,66,Clear & Sunny,0.94
+2026-01-02,"Wayanad, Kerala",Kerala,22.6,1.6,61,Clear & Sunny,0.93
+2026-01-02,"Nilgiris, Tamil Nadu",Tamil Nadu,17.6,1.5,72,Clear & Sunny,1.0
+2026-01-02,"Sundarbans, West Bengal",West Bengal,19.0,2.7,58,Clear & Sunny,0.98
+2026-01-02,"Coorg, Karnataka",Karnataka,25.5,1.4,59,Pleasant Breeze,0.95
+2026-01-03,"Wayanad, Kerala",Kerala,18.4,2.0,59,Clear & Sunny,0.98
+2026-01-03,"Nilgiris, Tamil Nadu",Tamil Nadu,15.2,2.1,71,Pleasant Breeze,0.99
+2026-01-03,"Sundarbans, West Bengal",West Bengal,21.1,1.3,74,Clear & Sunny,0.93
+2026-01-03,"Coorg, Karnataka",Karnataka,24.6,1.3,72,Clear & Sunny,0.96
+2026-01-04,"Wayanad, Kerala",Kerala,18.1,1.9,65,Clear & Sunny,1.0
+2026-01-04,"Nilgiris, Tamil Nadu",Tamil Nadu,20.4,2.3,75,Pleasant Breeze,0.95
+2026-01-04,"Sundarbans, West Bengal",West Bengal,24.3,3.9,73,Clear & Sunny,0.97
+2026-01-04,"Coorg, Karnataka",Karnataka,19.4,2.3,75,Clear & Sunny,0.98
+2026-01-05,"Wayanad, Kerala",Kerala,24.6,1.5,62,Pleasant Breeze,0.99
+2026-01-05,"Nilgiris, Tamil Nadu",Tamil Nadu,14.2,0.4,65,Clear & Sunny,0.94
+2026-01-05,"Sundarbans, West Bengal",West Bengal,22.0,0.8,74,Clear & Sunny,0.99
+2026-01-05,"Coorg, Karnataka",Karnataka,18.5,2.9,59,Clear & Sunny,0.96
+2026-01-06,"Wayanad, Kerala",Kerala,21.8,4.0,67,Clear & Sunny,0.92
+2026-01-06,"Nilgiris, Tamil Nadu",Tamil Nadu,16.7,3.6,66,Clear & Sunny,0.99
+2026-01-06,"Sundarbans, West Bengal",West Bengal,24.4,2.7,63,Clear & Sunny,0.92
+2026-01-06,"Coorg, Karnataka",Karnataka,22.5,1.0,62,Clear & Sunny,1.0
+2026-01-07,"Wayanad, Kerala",Kerala,23.6,3.1,70,Clear & Sunny,0.93
+2026-01-07,"Nilgiris, Tamil Nadu",Tamil Nadu,20.4,3.7,63,Clear & Sunny,0.96
+2026-01-07,"Sundarbans, West Bengal",West Bengal,25.2,2.2,67,Clear & Sunny,1.0
+2026-01-07,"Coorg, Karnataka",Karnataka,20.3,3.2,64,Clear & Sunny,0.91
+2026-01-08,"Wayanad, Kerala",Kerala,23.2,3.7,70,Pleasant Breeze,0.98
+2026-01-08,"Nilgiris, Tamil Nadu",Tamil Nadu,18.5,1.1,63,Pleasant Breeze,0.96
+2026-01-08,"Sundarbans, West Bengal",West Bengal,19.9,2.3,71,Pleasant Breeze,0.92
+2026-01-08,"Coorg, Karnataka",Karnataka,20.6,0.4,70,Pleasant Breeze,0.98
+2026-01-09,"Wayanad, Kerala",Kerala,22.4,0.0,60,Clear & Sunny,0.99
+2026-01-09,"Nilgiris, Tamil Nadu",Tamil Nadu,17.8,3.5,61,Clear & Sunny,0.93
+2026-01-09,"Sundarbans, West Bengal",West Bengal,18.5,1.1,57,Clear & Sunny,0.92
+2026-01-09,"Coorg, Karnataka",Karnataka,24.8,3.0,56,Clear & Sunny,0.92
+2026-01-10,"Wayanad, Kerala",Kerala,19.4,3.5,56,Clear & Sunny,0.94
+2026-01-10,"Nilgiris, Tamil Nadu",Tamil Nadu,21.5,2.0,64,Clear & Sunny,0.9
+2026-01-10,"Sundarbans, West Bengal",West Bengal,18.9,2.3,65,Clear & Sunny,1.0
+2026-01-10,"Coorg, Karnataka",Karnataka,22.0,2.2,59,Clear & Sunny,0.95
+2026-01-11,"Wayanad, Kerala",Kerala,18.9,0.8,60,Clear & Sunny,0.96
+2026-01-11,"Nilgiris, Tamil Nadu",Tamil Nadu,14.1,2.9,65,Clear & Sunny,0.96
+2026-01-11,"Sundarbans, West Bengal",West Bengal,19.4,3.0,75,Clear & Sunny,0.98
+2026-01-11,"Coorg, Karnataka",Karnataka,18.7,2.1,58,Pleasant Breeze,0.91
+2026-01-12,"Wayanad, Kerala",Kerala,20.0,1.3,63,Clear & Sunny,0.94
+2026-01-12,"Nilgiris, Tamil Nadu",Tamil Nadu,16.6,1.1,73,Clear & Sunny,0.9
+2026-01-12,"Sundarbans, West Bengal",West Bengal,23.5,2.6,56,Clear & Sunny,0.95
+2026-01-12,"Coorg, Karnataka",Karnataka,23.5,0.6,64,Clear & Sunny,0.96
+2026-01-13,"Wayanad, Kerala",Kerala,20.9,3.8,62,Pleasant Breeze,0.91
+2026-01-13,"Nilgiris, Tamil Nadu",Tamil Nadu,20.0,0.6,74,Clear & Sunny,0.97
+2026-01-13,"Sundarbans, West Bengal",West Bengal,24.1,3.7,61,Clear & Sunny,0.97
+2026-01-13,"Coorg, Karnataka",Karnataka,24.3,2.4,71,Clear & Sunny,0.97
+2026-01-14,"Wayanad, Kerala",Kerala,22.5,0.3,56,Clear & Sunny,0.99
+2026-01-14,"Nilgiris, Tamil Nadu",Tamil Nadu,18.3,0.8,60,Clear & Sunny,0.95
+2026-01-14,"Sundarbans, West Bengal",West Bengal,19.6,0.5,73,Clear & Sunny,0.99
+2026-01-14,"Coorg, Karnataka",Karnataka,18.4,1.8,59,Clear & Sunny,0.95
+2026-01-15,"Wayanad, Kerala",Kerala,21.7,0.2,64,Clear & Sunny,0.94
+2026-01-15,"Nilgiris, Tamil Nadu",Tamil Nadu,20.0,3.3,73,Pleasant Breeze,0.94
+2026-01-15,"Sundarbans, West Bengal",West Bengal,22.3,2.8,56,Clear & Sunny,0.91
+2026-01-15,"Coorg, Karnataka",Karnataka,18.3,3.7,68,Pleasant Breeze,0.91
+2026-01-16,"Wayanad, Kerala",Kerala,23.8,2.6,68,Clear & Sunny,0.99
+2026-01-16,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,1.8,67,Clear & Sunny,0.97
+2026-01-16,"Sundarbans, West Bengal",West Bengal,22.3,2.6,75,Clear & Sunny,0.91
+2026-01-16,"Coorg, Karnataka",Karnataka,21.1,4.0,59,Clear & Sunny,0.92
+2026-01-17,"Wayanad, Kerala",Kerala,18.2,0.0,64,Clear & Sunny,0.97
+2026-01-17,"Nilgiris, Tamil Nadu",Tamil Nadu,17.0,1.7,62,Pleasant Breeze,0.93
+2026-01-17,"Sundarbans, West Bengal",West Bengal,25.5,1.1,58,Pleasant Breeze,0.97
+2026-01-17,"Coorg, Karnataka",Karnataka,25.5,2.5,55,Pleasant Breeze,0.91
+2026-01-18,"Wayanad, Kerala",Kerala,21.6,2.4,56,Pleasant Breeze,0.9
+2026-01-18,"Nilgiris, Tamil Nadu",Tamil Nadu,18.3,1.8,56,Pleasant Breeze,1.0
+2026-01-18,"Sundarbans, West Bengal",West Bengal,25.3,0.9,73,Clear & Sunny,0.96
+2026-01-18,"Coorg, Karnataka",Karnataka,20.6,2.7,64,Clear & Sunny,1.0
+2026-01-19,"Wayanad, Kerala",Kerala,21.3,2.1,63,Pleasant Breeze,0.99
+2026-01-19,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,3.5,75,Clear & Sunny,0.96
+2026-01-19,"Sundarbans, West Bengal",West Bengal,20.8,0.2,75,Clear & Sunny,0.98
+2026-01-19,"Coorg, Karnataka",Karnataka,21.3,1.3,59,Clear & Sunny,0.92
+2026-01-20,"Wayanad, Kerala",Kerala,19.9,2.2,62,Clear & Sunny,0.97
+2026-01-20,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,3.2,72,Clear & Sunny,0.94
+2026-01-20,"Sundarbans, West Bengal",West Bengal,21.1,2.1,63,Pleasant Breeze,0.96
+2026-01-20,"Coorg, Karnataka",Karnataka,24.8,3.7,57,Clear & Sunny,0.98
+2026-01-21,"Wayanad, Kerala",Kerala,21.0,0.2,74,Clear & Sunny,0.99
+2026-01-21,"Nilgiris, Tamil Nadu",Tamil Nadu,20.1,0.8,72,Pleasant Breeze,0.92
+2026-01-21,"Sundarbans, West Bengal",West Bengal,20.4,3.6,55,Pleasant Breeze,0.92
+2026-01-21,"Coorg, Karnataka",Karnataka,24.0,3.0,70,Clear & Sunny,0.97
+2026-01-22,"Wayanad, Kerala",Kerala,21.2,2.8,62,Clear & Sunny,0.98
+2026-01-22,"Nilgiris, Tamil Nadu",Tamil Nadu,18.3,1.5,66,Clear & Sunny,0.94
+2026-01-22,"Sundarbans, West Bengal",West Bengal,21.7,3.5,70,Clear & Sunny,0.93
+2026-01-22,"Coorg, Karnataka",Karnataka,20.5,0.8,56,Clear & Sunny,0.92
+2026-01-23,"Wayanad, Kerala",Kerala,20.1,0.6,73,Clear & Sunny,0.94
+2026-01-23,"Nilgiris, Tamil Nadu",Tamil Nadu,16.6,0.6,67,Clear & Sunny,0.92
+2026-01-23,"Sundarbans, West Bengal",West Bengal,25.5,2.2,65,Clear & Sunny,0.98
+2026-01-23,"Coorg, Karnataka",Karnataka,23.1,3.9,70,Clear & Sunny,0.97
+2026-01-24,"Wayanad, Kerala",Kerala,19.1,1.4,72,Clear & Sunny,0.99
+2026-01-24,"Nilgiris, Tamil Nadu",Tamil Nadu,19.1,2.2,56,Clear & Sunny,0.98
+2026-01-24,"Sundarbans, West Bengal",West Bengal,24.5,0.3,56,Clear & Sunny,0.94
+2026-01-24,"Coorg, Karnataka",Karnataka,19.9,3.4,59,Pleasant Breeze,0.95
+2026-01-25,"Wayanad, Kerala",Kerala,22.9,1.5,74,Clear & Sunny,0.97
+2026-01-25,"Nilgiris, Tamil Nadu",Tamil Nadu,18.3,0.1,68,Pleasant Breeze,0.95
+2026-01-25,"Sundarbans, West Bengal",West Bengal,25.8,1.1,55,Clear & Sunny,0.97
+2026-01-25,"Coorg, Karnataka",Karnataka,25.5,1.7,60,Pleasant Breeze,0.91
+2026-01-26,"Wayanad, Kerala",Kerala,19.5,0.6,71,Clear & Sunny,0.94
+2026-01-26,"Nilgiris, Tamil Nadu",Tamil Nadu,14.6,3.2,67,Clear & Sunny,0.92
+2026-01-26,"Sundarbans, West Bengal",West Bengal,20.4,2.8,57,Clear & Sunny,0.99
+2026-01-26,"Coorg, Karnataka",Karnataka,18.7,3.0,67,Clear & Sunny,0.95
+2026-01-27,"Wayanad, Kerala",Kerala,23.6,2.5,57,Clear & Sunny,0.94
+2026-01-27,"Nilgiris, Tamil Nadu",Tamil Nadu,18.5,3.1,58,Clear & Sunny,0.99
+2026-01-27,"Sundarbans, West Bengal",West Bengal,25.2,0.9,73,Clear & Sunny,0.9
+2026-01-27,"Coorg, Karnataka",Karnataka,25.4,0.3,72,Clear & Sunny,0.9
+2026-01-28,"Wayanad, Kerala",Kerala,20.5,3.7,61,Clear & Sunny,0.98
+2026-01-28,"Nilgiris, Tamil Nadu",Tamil Nadu,17.2,2.9,57,Clear & Sunny,0.96
+2026-01-28,"Sundarbans, West Bengal",West Bengal,24.8,2.3,72,Clear & Sunny,0.98
+2026-01-28,"Coorg, Karnataka",Karnataka,25.9,0.6,57,Clear & Sunny,1.0
+2026-01-29,"Wayanad, Kerala",Kerala,21.5,0.2,57,Clear & Sunny,0.98
+2026-01-29,"Nilgiris, Tamil Nadu",Tamil Nadu,17.2,3.8,65,Pleasant Breeze,0.93
+2026-01-29,"Sundarbans, West Bengal",West Bengal,21.9,4.0,66,Clear & Sunny,0.94
+2026-01-29,"Coorg, Karnataka",Karnataka,22.7,0.7,67,Pleasant Breeze,0.96
+2026-01-30,"Wayanad, Kerala",Kerala,23.7,3.2,57,Clear & Sunny,0.94
+2026-01-30,"Nilgiris, Tamil Nadu",Tamil Nadu,15.2,3.1,67,Clear & Sunny,0.91
+2026-01-30,"Sundarbans, West Bengal",West Bengal,20.5,0.0,66,Clear & Sunny,0.91
+2026-01-30,"Coorg, Karnataka",Karnataka,21.4,0.3,72,Clear & Sunny,0.94
+2026-01-31,"Wayanad, Kerala",Kerala,20.8,0.1,57,Clear & Sunny,0.98
+2026-01-31,"Nilgiris, Tamil Nadu",Tamil Nadu,14.1,3.5,68,Clear & Sunny,0.91
+2026-01-31,"Sundarbans, West Bengal",West Bengal,25.2,3.6,62,Clear & Sunny,0.92
+2026-01-31,"Coorg, Karnataka",Karnataka,19.1,1.5,64,Clear & Sunny,0.91
+2026-02-01,"Wayanad, Kerala",Kerala,20.2,0.7,64,Clear & Sunny,0.91
+2026-02-01,"Nilgiris, Tamil Nadu",Tamil Nadu,16.0,1.0,75,Clear & Sunny,0.96
+2026-02-01,"Sundarbans, West Bengal",West Bengal,19.1,1.8,55,Clear & Sunny,0.93
+2026-02-01,"Coorg, Karnataka",Karnataka,24.4,2.5,65,Clear & Sunny,0.94
+2026-02-02,"Wayanad, Kerala",Kerala,23.2,3.3,74,Pleasant Breeze,0.93
+2026-02-02,"Nilgiris, Tamil Nadu",Tamil Nadu,15.6,3.8,65,Pleasant Breeze,0.94
+2026-02-02,"Sundarbans, West Bengal",West Bengal,23.9,1.3,75,Clear & Sunny,0.96
+2026-02-02,"Coorg, Karnataka",Karnataka,21.0,1.0,67,Clear & Sunny,0.99
+2026-02-03,"Wayanad, Kerala",Kerala,26.0,0.8,60,Clear & Sunny,0.96
+2026-02-03,"Nilgiris, Tamil Nadu",Tamil Nadu,17.7,3.8,61,Clear & Sunny,0.93
+2026-02-03,"Sundarbans, West Bengal",West Bengal,24.6,2.8,68,Clear & Sunny,0.91
+2026-02-03,"Coorg, Karnataka",Karnataka,20.0,1.2,59,Clear & Sunny,0.98
+2026-02-04,"Wayanad, Kerala",Kerala,25.9,0.3,70,Clear & Sunny,0.95
+2026-02-04,"Nilgiris, Tamil Nadu",Tamil Nadu,21.0,3.7,68,Clear & Sunny,0.98
+2026-02-04,"Sundarbans, West Bengal",West Bengal,25.2,1.4,72,Clear & Sunny,0.99
+2026-02-04,"Coorg, Karnataka",Karnataka,20.0,0.4,66,Pleasant Breeze,0.96
+2026-02-05,"Wayanad, Kerala",Kerala,23.2,2.3,75,Clear & Sunny,0.98
+2026-02-05,"Nilgiris, Tamil Nadu",Tamil Nadu,17.4,3.9,55,Pleasant Breeze,0.92
+2026-02-05,"Sundarbans, West Bengal",West Bengal,22.5,3.0,73,Pleasant Breeze,0.94
+2026-02-05,"Coorg, Karnataka",Karnataka,23.4,1.9,71,Pleasant Breeze,1.0
+2026-02-06,"Wayanad, Kerala",Kerala,20.4,1.9,57,Pleasant Breeze,0.99
+2026-02-06,"Nilgiris, Tamil Nadu",Tamil Nadu,16.5,0.6,69,Clear & Sunny,0.95
+2026-02-06,"Sundarbans, West Bengal",West Bengal,18.8,1.4,69,Clear & Sunny,0.93
+2026-02-06,"Coorg, Karnataka",Karnataka,18.9,3.2,65,Clear & Sunny,0.97
+2026-02-07,"Wayanad, Kerala",Kerala,25.9,0.7,62,Clear & Sunny,0.96
+2026-02-07,"Nilgiris, Tamil Nadu",Tamil Nadu,17.4,1.3,69,Pleasant Breeze,0.94
+2026-02-07,"Sundarbans, West Bengal",West Bengal,23.1,0.7,68,Clear & Sunny,0.97
+2026-02-07,"Coorg, Karnataka",Karnataka,21.6,3.5,68,Clear & Sunny,0.97
+2026-02-08,"Wayanad, Kerala",Kerala,24.0,0.8,57,Clear & Sunny,0.98
+2026-02-08,"Nilgiris, Tamil Nadu",Tamil Nadu,16.9,2.1,61,Clear & Sunny,0.93
+2026-02-08,"Sundarbans, West Bengal",West Bengal,22.2,3.5,75,Clear & Sunny,0.94
+2026-02-08,"Coorg, Karnataka",Karnataka,18.9,1.6,66,Clear & Sunny,0.96
+2026-02-09,"Wayanad, Kerala",Kerala,23.6,3.3,64,Clear & Sunny,0.96
+2026-02-09,"Nilgiris, Tamil Nadu",Tamil Nadu,16.5,2.7,62,Clear & Sunny,0.92
+2026-02-09,"Sundarbans, West Bengal",West Bengal,22.1,2.8,68,Clear & Sunny,0.96
+2026-02-09,"Coorg, Karnataka",Karnataka,21.9,1.7,72,Clear & Sunny,0.96
+2026-02-10,"Wayanad, Kerala",Kerala,22.4,4.0,70,Clear & Sunny,0.92
+2026-02-10,"Nilgiris, Tamil Nadu",Tamil Nadu,19.0,3.4,66,Clear & Sunny,0.95
+2026-02-10,"Sundarbans, West Bengal",West Bengal,21.1,0.8,72,Clear & Sunny,0.95
+2026-02-10,"Coorg, Karnataka",Karnataka,21.3,2.7,69,Clear & Sunny,0.91
+2026-02-11,"Wayanad, Kerala",Kerala,24.1,0.1,64,Pleasant Breeze,0.92
+2026-02-11,"Nilgiris, Tamil Nadu",Tamil Nadu,20.2,1.2,73,Clear & Sunny,0.98
+2026-02-11,"Sundarbans, West Bengal",West Bengal,18.9,2.2,58,Clear & Sunny,0.95
+2026-02-11,"Coorg, Karnataka",Karnataka,22.3,4.0,56,Clear & Sunny,0.94
+2026-02-12,"Wayanad, Kerala",Kerala,21.4,0.9,75,Clear & Sunny,0.93
+2026-02-12,"Nilgiris, Tamil Nadu",Tamil Nadu,17.6,4.0,66,Clear & Sunny,0.91
+2026-02-12,"Sundarbans, West Bengal",West Bengal,18.9,3.5,62,Pleasant Breeze,0.97
+2026-02-12,"Coorg, Karnataka",Karnataka,24.9,2.8,74,Clear & Sunny,0.92
+2026-02-13,"Wayanad, Kerala",Kerala,19.7,0.6,61,Clear & Sunny,0.96
+2026-02-13,"Nilgiris, Tamil Nadu",Tamil Nadu,18.8,2.1,60,Clear & Sunny,0.97
+2026-02-13,"Sundarbans, West Bengal",West Bengal,20.1,1.2,71,Clear & Sunny,0.97
+2026-02-13,"Coorg, Karnataka",Karnataka,25.7,0.4,68,Clear & Sunny,1.0
+2026-02-14,"Wayanad, Kerala",Kerala,19.0,3.5,59,Pleasant Breeze,0.97
+2026-02-14,"Nilgiris, Tamil Nadu",Tamil Nadu,20.1,3.3,67,Clear & Sunny,0.96
+2026-02-14,"Sundarbans, West Bengal",West Bengal,21.3,1.1,69,Pleasant Breeze,0.98
+2026-02-14,"Coorg, Karnataka",Karnataka,21.2,3.1,63,Clear & Sunny,0.99
+2026-02-15,"Wayanad, Kerala",Kerala,21.9,1.8,73,Pleasant Breeze,0.98
+2026-02-15,"Nilgiris, Tamil Nadu",Tamil Nadu,19.8,2.9,69,Clear & Sunny,0.97
+2026-02-15,"Sundarbans, West Bengal",West Bengal,24.4,3.4,67,Pleasant Breeze,0.94
+2026-02-15,"Coorg, Karnataka",Karnataka,20.1,0.8,64,Clear & Sunny,0.96
+2026-02-16,"Wayanad, Kerala",Kerala,21.9,2.3,65,Clear & Sunny,0.98
+2026-02-16,"Nilgiris, Tamil Nadu",Tamil Nadu,19.0,0.2,69,Pleasant Breeze,0.99
+2026-02-16,"Sundarbans, West Bengal",West Bengal,21.7,0.6,68,Pleasant Breeze,0.97
+2026-02-16,"Coorg, Karnataka",Karnataka,23.2,0.5,60,Clear & Sunny,0.99
+2026-02-17,"Wayanad, Kerala",Kerala,20.9,0.4,57,Clear & Sunny,0.99
+2026-02-17,"Nilgiris, Tamil Nadu",Tamil Nadu,17.2,0.7,64,Clear & Sunny,0.98
+2026-02-17,"Sundarbans, West Bengal",West Bengal,18.7,1.7,58,Pleasant Breeze,0.95
+2026-02-17,"Coorg, Karnataka",Karnataka,19.8,0.5,69,Pleasant Breeze,0.97
+2026-02-18,"Wayanad, Kerala",Kerala,25.9,3.3,68,Clear & Sunny,0.95
+2026-02-18,"Nilgiris, Tamil Nadu",Tamil Nadu,14.7,0.9,58,Pleasant Breeze,0.94
+2026-02-18,"Sundarbans, West Bengal",West Bengal,21.1,1.2,59,Clear & Sunny,0.97
+2026-02-18,"Coorg, Karnataka",Karnataka,22.5,0.3,74,Clear & Sunny,0.94
+2026-02-19,"Wayanad, Kerala",Kerala,23.0,2.9,59,Clear & Sunny,0.96
+2026-02-19,"Nilgiris, Tamil Nadu",Tamil Nadu,15.7,1.8,58,Pleasant Breeze,0.91
+2026-02-19,"Sundarbans, West Bengal",West Bengal,20.8,2.9,68,Clear & Sunny,0.91
+2026-02-19,"Coorg, Karnataka",Karnataka,18.7,1.1,72,Clear & Sunny,0.97
+2026-02-20,"Wayanad, Kerala",Kerala,25.5,1.1,55,Clear & Sunny,0.97
+2026-02-20,"Nilgiris, Tamil Nadu",Tamil Nadu,18.1,1.2,71,Pleasant Breeze,0.94
+2026-02-20,"Sundarbans, West Bengal",West Bengal,24.3,2.6,62,Clear & Sunny,0.91
+2026-02-20,"Coorg, Karnataka",Karnataka,22.8,2.0,71,Clear & Sunny,0.9
+2026-02-21,"Wayanad, Kerala",Kerala,20.5,1.4,67,Clear & Sunny,0.96
+2026-02-21,"Nilgiris, Tamil Nadu",Tamil Nadu,19.5,1.5,70,Clear & Sunny,0.98
+2026-02-21,"Sundarbans, West Bengal",West Bengal,18.5,0.1,63,Pleasant Breeze,0.99
+2026-02-21,"Coorg, Karnataka",Karnataka,21.2,3.8,64,Clear & Sunny,0.95
+2026-02-22,"Wayanad, Kerala",Kerala,23.6,1.7,57,Clear & Sunny,0.95
+2026-02-22,"Nilgiris, Tamil Nadu",Tamil Nadu,14.7,0.6,57,Clear & Sunny,0.92
+2026-02-22,"Sundarbans, West Bengal",West Bengal,22.3,3.2,67,Clear & Sunny,0.98
+2026-02-22,"Coorg, Karnataka",Karnataka,23.1,2.6,64,Clear & Sunny,0.97
+2026-02-23,"Wayanad, Kerala",Kerala,18.5,3.4,57,Clear & Sunny,0.91
+2026-02-23,"Nilgiris, Tamil Nadu",Tamil Nadu,14.4,2.4,60,Pleasant Breeze,0.97
+2026-02-23,"Sundarbans, West Bengal",West Bengal,19.3,2.8,66,Clear & Sunny,0.98
+2026-02-23,"Coorg, Karnataka",Karnataka,19.3,2.9,59,Clear & Sunny,0.99
+2026-02-24,"Wayanad, Kerala",Kerala,18.9,2.9,55,Clear & Sunny,0.94
+2026-02-24,"Nilgiris, Tamil Nadu",Tamil Nadu,16.1,2.1,73,Clear & Sunny,0.95
+2026-02-24,"Sundarbans, West Bengal",West Bengal,18.4,2.0,73,Pleasant Breeze,0.92
+2026-02-24,"Coorg, Karnataka",Karnataka,25.2,3.1,58,Pleasant Breeze,0.95
+2026-02-25,"Wayanad, Kerala",Kerala,24.9,0.2,62,Pleasant Breeze,0.94
+2026-02-25,"Nilgiris, Tamil Nadu",Tamil Nadu,15.4,3.7,56,Clear & Sunny,0.99
+2026-02-25,"Sundarbans, West Bengal",West Bengal,21.4,3.0,65,Pleasant Breeze,0.99
+2026-02-25,"Coorg, Karnataka",Karnataka,24.6,1.3,73,Clear & Sunny,0.95
+2026-02-26,"Wayanad, Kerala",Kerala,19.4,3.6,71,Clear & Sunny,1.0
+2026-02-26,"Nilgiris, Tamil Nadu",Tamil Nadu,17.7,0.3,64,Clear & Sunny,0.93
+2026-02-26,"Sundarbans, West Bengal",West Bengal,21.7,0.3,66,Pleasant Breeze,0.96
+2026-02-26,"Coorg, Karnataka",Karnataka,23.0,1.2,69,Clear & Sunny,1.0
+2026-02-27,"Wayanad, Kerala",Kerala,24.2,4.0,72,Clear & Sunny,0.92
+2026-02-27,"Nilgiris, Tamil Nadu",Tamil Nadu,17.3,0.0,62,Clear & Sunny,0.96
+2026-02-27,"Sundarbans, West Bengal",West Bengal,18.1,2.8,65,Pleasant Breeze,0.97
+2026-02-27,"Coorg, Karnataka",Karnataka,23.8,3.4,58,Pleasant Breeze,1.0
+2026-02-28,"Wayanad, Kerala",Kerala,25.7,1.7,59,Clear & Sunny,0.91
+2026-02-28,"Nilgiris, Tamil Nadu",Tamil Nadu,21.2,3.7,71,Clear & Sunny,0.99
+2026-02-28,"Sundarbans, West Bengal",West Bengal,24.0,1.8,73,Pleasant Breeze,0.91
+2026-02-28,"Coorg, Karnataka",Karnataka,18.6,3.3,73,Pleasant Breeze,0.97
+2026-03-01,"Wayanad, Kerala",Kerala,26.3,1.0,60,Sunny,0.87
+2026-03-01,"Nilgiris, Tamil Nadu",Tamil Nadu,30.7,3.1,60,Sunny,0.79
+2026-03-01,"Sundarbans, West Bengal",West Bengal,24.6,2.2,56,Sunny,0.77
+2026-03-01,"Coorg, Karnataka",Karnataka,24.9,6.2,53,Sunny,0.77
+2026-03-02,"Wayanad, Kerala",Kerala,27.3,3.7,67,Sunny,0.8
+2026-03-02,"Nilgiris, Tamil Nadu",Tamil Nadu,27.6,6.2,64,Sunny,0.78
+2026-03-02,"Sundarbans, West Bengal",West Bengal,25.3,1.0,59,Sunny,0.86
+2026-03-02,"Coorg, Karnataka",Karnataka,24.3,5.6,60,Sunny,0.77
+2026-03-03,"Wayanad, Kerala",Kerala,31.7,5.7,62,Sunny,0.82
+2026-03-03,"Nilgiris, Tamil Nadu",Tamil Nadu,26.1,5.4,55,Sunny,0.75
+2026-03-03,"Sundarbans, West Bengal",West Bengal,27.6,3.2,67,Sunny,0.78
+2026-03-03,"Coorg, Karnataka",Karnataka,30.4,3.7,54,Sunny,0.77
+2026-03-04,"Wayanad, Kerala",Kerala,30.2,0.5,57,Sunny,0.77
+2026-03-04,"Nilgiris, Tamil Nadu",Tamil Nadu,27.0,6.6,70,Sunny,0.87
+2026-03-04,"Sundarbans, West Bengal",West Bengal,28.7,0.7,52,Sunny,0.75
+2026-03-04,"Coorg, Karnataka",Karnataka,31.2,0.5,64,Sunny,0.86
+2026-03-05,"Wayanad, Kerala",Kerala,30.8,0.7,60,Sunny,0.77
+2026-03-05,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,7.5,68,Sunny,0.81
+2026-03-05,"Sundarbans, West Bengal",West Bengal,28.0,5.8,62,Sunny,0.84
+2026-03-05,"Coorg, Karnataka",Karnataka,25.7,1.4,55,Sunny,0.79
+2026-03-06,"Wayanad, Kerala",Kerala,25.2,3.6,69,Sunny,0.83
+2026-03-06,"Nilgiris, Tamil Nadu",Tamil Nadu,26.4,2.0,63,Sunny,0.86
+2026-03-06,"Sundarbans, West Bengal",West Bengal,24.7,3.8,62,Sunny,0.77
+2026-03-06,"Coorg, Karnataka",Karnataka,31.1,1.6,66,Sunny,0.78
+2026-03-07,"Wayanad, Kerala",Kerala,28.3,8.0,50,Sunny,0.88
+2026-03-07,"Nilgiris, Tamil Nadu",Tamil Nadu,26.9,6.3,67,Sunny,0.85
+2026-03-07,"Sundarbans, West Bengal",West Bengal,28.5,2.8,60,Sunny,0.8
+2026-03-07,"Coorg, Karnataka",Karnataka,26.6,1.4,57,Sunny,0.75
+2026-03-08,"Wayanad, Kerala",Kerala,26.2,6.5,65,Sunny,0.82
+2026-03-08,"Nilgiris, Tamil Nadu",Tamil Nadu,32.0,6.1,55,Sunny,0.76
+2026-03-08,"Sundarbans, West Bengal",West Bengal,26.1,5.3,51,Sunny,0.85
+2026-03-08,"Coorg, Karnataka",Karnataka,28.6,7.6,62,Sunny,0.8
+2026-03-09,"Wayanad, Kerala",Kerala,30.8,6.7,55,Sunny,0.78
+2026-03-09,"Nilgiris, Tamil Nadu",Tamil Nadu,29.9,2.5,61,Sunny,0.87
+2026-03-09,"Sundarbans, West Bengal",West Bengal,29.6,0.2,68,Sunny,0.82
+2026-03-09,"Coorg, Karnataka",Karnataka,25.5,4.5,65,Sunny,0.82
+2026-03-10,"Wayanad, Kerala",Kerala,24.3,1.4,51,Sunny,0.78
+2026-03-10,"Nilgiris, Tamil Nadu",Tamil Nadu,28.2,1.8,50,Sunny,0.79
+2026-03-10,"Sundarbans, West Bengal",West Bengal,30.5,4.9,60,Sunny,0.84
+2026-03-10,"Coorg, Karnataka",Karnataka,30.8,7.4,60,Sunny,0.76
+2026-03-11,"Wayanad, Kerala",Kerala,29.6,1.2,54,Sunny,0.85
+2026-03-11,"Nilgiris, Tamil Nadu",Tamil Nadu,30.9,6.8,52,Sunny,0.8
+2026-03-11,"Sundarbans, West Bengal",West Bengal,27.2,7.5,53,Sunny,0.79
+2026-03-11,"Coorg, Karnataka",Karnataka,31.8,2.6,63,Sunny,0.85
+2026-03-12,"Wayanad, Kerala",Kerala,29.2,7.7,55,Sunny,0.84
+2026-03-12,"Nilgiris, Tamil Nadu",Tamil Nadu,31.1,4.5,69,Sunny,0.85
+2026-03-12,"Sundarbans, West Bengal",West Bengal,28.7,1.8,55,Sunny,0.8
+2026-03-12,"Coorg, Karnataka",Karnataka,26.4,5.9,55,Sunny,0.84
+2026-03-13,"Wayanad, Kerala",Kerala,31.6,7.6,62,Sunny,0.86
+2026-03-13,"Nilgiris, Tamil Nadu",Tamil Nadu,28.5,6.2,55,Sunny,0.83
+2026-03-13,"Sundarbans, West Bengal",West Bengal,31.7,7.4,57,Sunny,0.83
+2026-03-13,"Coorg, Karnataka",Karnataka,28.0,0.8,60,Sunny,0.85
+2026-03-14,"Wayanad, Kerala",Kerala,31.9,1.9,55,Sunny,0.83
+2026-03-14,"Nilgiris, Tamil Nadu",Tamil Nadu,30.6,7.7,70,Sunny,0.84
+2026-03-14,"Sundarbans, West Bengal",West Bengal,24.1,2.7,56,Sunny,0.78
+2026-03-14,"Coorg, Karnataka",Karnataka,26.1,0.5,53,Sunny,0.84
+2026-03-15,"Wayanad, Kerala",Kerala,27.5,0.4,63,Sunny,0.88
+2026-03-15,"Nilgiris, Tamil Nadu",Tamil Nadu,27.9,7.1,62,Sunny,0.8
+2026-03-15,"Sundarbans, West Bengal",West Bengal,30.6,3.0,68,Sunny,0.83
+2026-03-15,"Coorg, Karnataka",Karnataka,25.3,5.5,52,Sunny,0.85
+2026-03-16,"Wayanad, Kerala",Kerala,24.2,0.3,58,Sunny,0.87
+2026-03-16,"Nilgiris, Tamil Nadu",Tamil Nadu,25.4,0.6,62,Sunny,0.77
+2026-03-16,"Sundarbans, West Bengal",West Bengal,31.5,0.6,52,Sunny,0.79
+2026-03-16,"Coorg, Karnataka",Karnataka,31.1,7.9,50,Sunny,0.81
+2026-03-17,"Wayanad, Kerala",Kerala,28.9,5.2,63,Sunny,0.77
+2026-03-17,"Nilgiris, Tamil Nadu",Tamil Nadu,25.6,0.8,56,Sunny,0.8
+2026-03-17,"Sundarbans, West Bengal",West Bengal,31.4,4.4,67,Sunny,0.78
+2026-03-17,"Coorg, Karnataka",Karnataka,25.9,2.3,51,Sunny,0.8
+2026-03-18,"Wayanad, Kerala",Kerala,27.9,4.4,51,Sunny,0.8
+2026-03-18,"Nilgiris, Tamil Nadu",Tamil Nadu,26.4,3.4,70,Sunny,0.83
+2026-03-18,"Sundarbans, West Bengal",West Bengal,24.2,1.6,55,Sunny,0.83
+2026-03-18,"Coorg, Karnataka",Karnataka,27.8,7.8,53,Sunny,0.79
+2026-03-19,"Wayanad, Kerala",Kerala,27.9,3.2,58,Sunny,0.76
+2026-03-19,"Nilgiris, Tamil Nadu",Tamil Nadu,25.5,4.4,62,Sunny,0.8
+2026-03-19,"Sundarbans, West Bengal",West Bengal,26.1,3.6,64,Sunny,0.78
+2026-03-19,"Coorg, Karnataka",Karnataka,28.5,6.7,54,Sunny,0.85
+2026-03-20,"Wayanad, Kerala",Kerala,24.7,5.3,61,Sunny,0.86
+2026-03-20,"Nilgiris, Tamil Nadu",Tamil Nadu,30.1,3.3,57,Sunny,0.82
+2026-03-20,"Sundarbans, West Bengal",West Bengal,30.5,6.7,63,Sunny,0.88
+2026-03-20,"Coorg, Karnataka",Karnataka,31.5,5.5,68,Sunny,0.86
+2026-03-21,"Wayanad, Kerala",Kerala,24.6,3.8,51,Sunny,0.82
+2026-03-21,"Nilgiris, Tamil Nadu",Tamil Nadu,30.4,7.2,69,Sunny,0.77
+2026-03-21,"Sundarbans, West Bengal",West Bengal,27.6,7.6,55,Sunny,0.88
+2026-03-21,"Coorg, Karnataka",Karnataka,25.0,6.5,63,Sunny,0.76
+2026-03-22,"Wayanad, Kerala",Kerala,25.6,5.5,70,Sunny,0.77
+2026-03-22,"Nilgiris, Tamil Nadu",Tamil Nadu,26.6,4.8,52,Sunny,0.76
+2026-03-22,"Sundarbans, West Bengal",West Bengal,28.4,4.5,58,Sunny,0.82
+2026-03-22,"Coorg, Karnataka",Karnataka,24.1,7.3,69,Sunny,0.83
+2026-03-23,"Wayanad, Kerala",Kerala,24.9,6.3,54,Sunny,0.77
+2026-03-23,"Nilgiris, Tamil Nadu",Tamil Nadu,30.1,4.7,53,Sunny,0.87
+2026-03-23,"Sundarbans, West Bengal",West Bengal,24.8,4.5,59,Sunny,0.86
+2026-03-23,"Coorg, Karnataka",Karnataka,31.0,7.0,58,Sunny,0.8
+2026-03-24,"Wayanad, Kerala",Kerala,28.9,3.9,51,Sunny,0.77
+2026-03-24,"Nilgiris, Tamil Nadu",Tamil Nadu,28.9,3.2,62,Sunny,0.76
+2026-03-24,"Sundarbans, West Bengal",West Bengal,26.7,7.1,57,Sunny,0.76
+2026-03-24,"Coorg, Karnataka",Karnataka,26.1,3.8,61,Sunny,0.75
+2026-03-25,"Wayanad, Kerala",Kerala,26.4,6.5,58,Sunny,0.86
+2026-03-25,"Nilgiris, Tamil Nadu",Tamil Nadu,29.5,6.9,57,Sunny,0.77
+2026-03-25,"Sundarbans, West Bengal",West Bengal,27.5,7.8,60,Sunny,0.79
+2026-03-25,"Coorg, Karnataka",Karnataka,29.2,3.3,56,Sunny,0.81
+2026-03-26,"Wayanad, Kerala",Kerala,27.3,7.3,65,Sunny,0.85
+2026-03-26,"Nilgiris, Tamil Nadu",Tamil Nadu,30.6,6.9,66,Sunny,0.85
+2026-03-26,"Sundarbans, West Bengal",West Bengal,29.7,0.5,62,Sunny,0.77
+2026-03-26,"Coorg, Karnataka",Karnataka,31.0,6.8,50,Sunny,0.77
+2026-03-27,"Wayanad, Kerala",Kerala,25.6,7.0,51,Sunny,0.78
+2026-03-27,"Nilgiris, Tamil Nadu",Tamil Nadu,31.3,3.7,56,Sunny,0.79
+2026-03-27,"Sundarbans, West Bengal",West Bengal,28.0,6.6,70,Sunny,0.87
+2026-03-27,"Coorg, Karnataka",Karnataka,25.9,5.4,65,Sunny,0.83
+2026-03-28,"Wayanad, Kerala",Kerala,31.0,1.4,68,Sunny,0.82
+2026-03-28,"Nilgiris, Tamil Nadu",Tamil Nadu,30.7,2.8,58,Sunny,0.85
+2026-03-28,"Sundarbans, West Bengal",West Bengal,26.3,5.5,62,Sunny,0.76
+2026-03-28,"Coorg, Karnataka",Karnataka,30.2,6.8,56,Sunny,0.86
+2026-03-29,"Wayanad, Kerala",Kerala,29.4,5.2,58,Sunny,0.83
+2026-03-29,"Nilgiris, Tamil Nadu",Tamil Nadu,30.9,4.1,50,Sunny,0.81
+2026-03-29,"Sundarbans, West Bengal",West Bengal,25.4,1.1,50,Sunny,0.78
+2026-03-29,"Coorg, Karnataka",Karnataka,31.5,4.9,70,Sunny,0.79
+2026-03-30,"Wayanad, Kerala",Kerala,30.8,7.2,64,Sunny,0.78
+2026-03-30,"Nilgiris, Tamil Nadu",Tamil Nadu,29.4,3.7,69,Sunny,0.8
+2026-03-30,"Sundarbans, West Bengal",West Bengal,28.1,0.8,61,Sunny,0.82
+2026-03-30,"Coorg, Karnataka",Karnataka,26.3,4.8,53,Sunny,0.81
+2026-03-31,"Wayanad, Kerala",Kerala,26.2,2.7,60,Sunny,0.86
+2026-03-31,"Nilgiris, Tamil Nadu",Tamil Nadu,29.7,2.1,70,Sunny,0.79
+2026-03-31,"Sundarbans, West Bengal",West Bengal,30.1,1.2,51,Sunny,0.85
+2026-03-31,"Coorg, Karnataka",Karnataka,28.8,6.4,60,Sunny,0.84
+2026-04-01,"Wayanad, Kerala",Kerala,29.2,5.8,59,Sunny,0.78
+2026-04-01,"Nilgiris, Tamil Nadu",Tamil Nadu,27.1,3.3,51,Sunny,0.83
+2026-04-01,"Sundarbans, West Bengal",West Bengal,30.5,8.0,60,Sunny,0.84
+2026-04-01,"Coorg, Karnataka",Karnataka,28.3,1.8,65,Sunny,0.87
+2026-04-02,"Wayanad, Kerala",Kerala,28.1,5.4,55,Sunny,0.86
+2026-04-02,"Nilgiris, Tamil Nadu",Tamil Nadu,25.4,7.0,53,Sunny,0.81
+2026-04-02,"Sundarbans, West Bengal",West Bengal,29.8,5.9,67,Sunny,0.85
+2026-04-02,"Coorg, Karnataka",Karnataka,29.4,1.5,60,Sunny,0.84
+2026-04-03,"Wayanad, Kerala",Kerala,25.8,1.8,59,Sunny,0.8
+2026-04-03,"Nilgiris, Tamil Nadu",Tamil Nadu,27.0,7.1,68,Sunny,0.79
+2026-04-03,"Sundarbans, West Bengal",West Bengal,27.8,6.8,70,Sunny,0.83
+2026-04-03,"Coorg, Karnataka",Karnataka,24.6,7.6,56,Sunny,0.82
+2026-04-04,"Wayanad, Kerala",Kerala,27.1,6.9,59,Sunny,0.8
+2026-04-04,"Nilgiris, Tamil Nadu",Tamil Nadu,25.2,7.0,56,Sunny,0.79
+2026-04-04,"Sundarbans, West Bengal",West Bengal,31.1,7.9,64,Sunny,0.77
+2026-04-04,"Coorg, Karnataka",Karnataka,25.4,6.9,52,Sunny,0.81
+2026-04-05,"Wayanad, Kerala",Kerala,25.4,5.0,70,Sunny,0.76
+2026-04-05,"Nilgiris, Tamil Nadu",Tamil Nadu,25.7,3.6,55,Sunny,0.82
+2026-04-05,"Sundarbans, West Bengal",West Bengal,30.3,1.3,52,Sunny,0.77
+2026-04-05,"Coorg, Karnataka",Karnataka,27.4,3.5,63,Sunny,0.88
+2026-04-06,"Wayanad, Kerala",Kerala,24.3,3.1,56,Sunny,0.84
+2026-04-06,"Nilgiris, Tamil Nadu",Tamil Nadu,31.1,7.6,66,Sunny,0.77
+2026-04-06,"Sundarbans, West Bengal",West Bengal,29.0,5.4,57,Sunny,0.78
+2026-04-06,"Coorg, Karnataka",Karnataka,26.5,7.0,53,Sunny,0.8
+2026-04-07,"Wayanad, Kerala",Kerala,25.3,4.7,51,Sunny,0.79
+2026-04-07,"Nilgiris, Tamil Nadu",Tamil Nadu,29.8,2.3,69,Sunny,0.82
+2026-04-07,"Sundarbans, West Bengal",West Bengal,29.5,3.5,54,Sunny,0.79
+2026-04-07,"Coorg, Karnataka",Karnataka,26.9,7.2,56,Sunny,0.77
+2026-04-08,"Wayanad, Kerala",Kerala,30.5,7.3,50,Sunny,0.78
+2026-04-08,"Nilgiris, Tamil Nadu",Tamil Nadu,25.0,5.8,50,Sunny,0.83
+2026-04-08,"Sundarbans, West Bengal",West Bengal,26.9,1.4,70,Sunny,0.85
+2026-04-08,"Coorg, Karnataka",Karnataka,29.1,3.0,67,Sunny,0.83
+2026-04-09,"Wayanad, Kerala",Kerala,24.4,4.8,53,Sunny,0.83
+2026-04-09,"Nilgiris, Tamil Nadu",Tamil Nadu,29.5,0.2,63,Sunny,0.81
+2026-04-09,"Sundarbans, West Bengal",West Bengal,26.0,1.0,54,Sunny,0.78
+2026-04-09,"Coorg, Karnataka",Karnataka,24.1,5.5,63,Sunny,0.84
+2026-04-10,"Wayanad, Kerala",Kerala,26.2,5.3,69,Sunny,0.84
+2026-04-10,"Nilgiris, Tamil Nadu",Tamil Nadu,31.2,3.4,66,Sunny,0.84
+2026-04-10,"Sundarbans, West Bengal",West Bengal,24.9,0.9,53,Sunny,0.81
+2026-04-10,"Coorg, Karnataka",Karnataka,30.2,4.9,66,Sunny,0.88
+2026-04-11,"Wayanad, Kerala",Kerala,27.3,2.9,55,Sunny,0.76
+2026-04-11,"Nilgiris, Tamil Nadu",Tamil Nadu,25.7,4.0,65,Sunny,0.79
+2026-04-11,"Sundarbans, West Bengal",West Bengal,29.4,0.0,53,Sunny,0.86
+2026-04-11,"Coorg, Karnataka",Karnataka,25.2,5.4,52,Sunny,0.85
+2026-04-12,"Wayanad, Kerala",Kerala,29.8,0.6,58,Sunny,0.83
+2026-04-12,"Nilgiris, Tamil Nadu",Tamil Nadu,31.8,3.7,58,Sunny,0.81
+2026-04-12,"Sundarbans, West Bengal",West Bengal,25.4,0.8,51,Sunny,0.86
+2026-04-12,"Coorg, Karnataka",Karnataka,29.4,2.9,63,Sunny,0.85
+2026-04-13,"Wayanad, Kerala",Kerala,30.1,0.8,51,Sunny,0.75
+2026-04-13,"Nilgiris, Tamil Nadu",Tamil Nadu,29.2,1.1,60,Sunny,0.8
+2026-04-13,"Sundarbans, West Bengal",West Bengal,29.0,3.5,52,Sunny,0.8
+2026-04-13,"Coorg, Karnataka",Karnataka,24.9,2.7,62,Sunny,0.88
+2026-04-14,"Wayanad, Kerala",Kerala,27.1,2.2,65,Sunny,0.85
+2026-04-14,"Nilgiris, Tamil Nadu",Tamil Nadu,30.4,5.2,53,Sunny,0.77
+2026-04-14,"Sundarbans, West Bengal",West Bengal,31.9,5.8,55,Sunny,0.76
+2026-04-14,"Coorg, Karnataka",Karnataka,27.9,7.3,68,Sunny,0.84
+2026-04-15,"Wayanad, Kerala",Kerala,27.0,1.5,61,Sunny,0.83
+2026-04-15,"Nilgiris, Tamil Nadu",Tamil Nadu,31.0,6.9,54,Sunny,0.81
+2026-04-15,"Sundarbans, West Bengal",West Bengal,31.1,3.9,64,Sunny,0.76
+2026-04-15,"Coorg, Karnataka",Karnataka,26.5,2.1,66,Sunny,0.85
+2026-04-16,"Wayanad, Kerala",Kerala,28.5,4.6,60,Sunny,0.82
+2026-04-16,"Nilgiris, Tamil Nadu",Tamil Nadu,28.9,5.5,63,Sunny,0.84
+2026-04-16,"Sundarbans, West Bengal",West Bengal,26.8,2.0,70,Sunny,0.8
+2026-04-16,"Coorg, Karnataka",Karnataka,28.5,6.7,69,Sunny,0.76
+2026-04-17,"Wayanad, Kerala",Kerala,25.3,5.1,65,Sunny,0.86
+2026-04-17,"Nilgiris, Tamil Nadu",Tamil Nadu,24.6,7.0,65,Sunny,0.79
+2026-04-17,"Sundarbans, West Bengal",West Bengal,26.2,2.6,66,Sunny,0.78
+2026-04-17,"Coorg, Karnataka",Karnataka,27.2,5.1,57,Sunny,0.76
+2026-04-18,"Wayanad, Kerala",Kerala,28.6,3.6,52,Sunny,0.86
+2026-04-18,"Nilgiris, Tamil Nadu",Tamil Nadu,24.9,3.6,65,Sunny,0.85
+2026-04-18,"Sundarbans, West Bengal",West Bengal,27.2,0.1,51,Sunny,0.82
+2026-04-18,"Coorg, Karnataka",Karnataka,24.7,0.0,69,Sunny,0.88
+2026-04-19,"Wayanad, Kerala",Kerala,31.1,5.1,67,Sunny,0.78
+2026-04-19,"Nilgiris, Tamil Nadu",Tamil Nadu,31.6,5.4,61,Sunny,0.86
+2026-04-19,"Sundarbans, West Bengal",West Bengal,30.8,6.5,60,Sunny,0.82
+2026-04-19,"Coorg, Karnataka",Karnataka,27.8,5.0,61,Sunny,0.84
+2026-04-20,"Wayanad, Kerala",Kerala,30.1,0.9,57,Sunny,0.75
+2026-04-20,"Nilgiris, Tamil Nadu",Tamil Nadu,29.1,2.8,59,Sunny,0.82
+2026-04-20,"Sundarbans, West Bengal",West Bengal,24.9,3.0,55,Sunny,0.81
+2026-04-20,"Coorg, Karnataka",Karnataka,29.9,6.6,63,Sunny,0.76
+2026-04-21,"Wayanad, Kerala",Kerala,25.5,4.9,62,Sunny,0.78
+2026-04-21,"Nilgiris, Tamil Nadu",Tamil Nadu,25.5,6.6,60,Sunny,0.76
+2026-04-21,"Sundarbans, West Bengal",West Bengal,31.4,3.3,68,Sunny,0.77
+2026-04-21,"Coorg, Karnataka",Karnataka,27.7,7.1,68,Sunny,0.87
+2026-04-22,"Wayanad, Kerala",Kerala,28.0,1.1,66,Sunny,0.85
+2026-04-22,"Nilgiris, Tamil Nadu",Tamil Nadu,27.5,4.4,68,Sunny,0.81
+2026-04-22,"Sundarbans, West Bengal",West Bengal,31.4,4.1,55,Sunny,0.84
+2026-04-22,"Coorg, Karnataka",Karnataka,30.5,1.4,53,Sunny,0.8
+2026-04-23,"Wayanad, Kerala",Kerala,31.1,4.8,66,Sunny,0.86
+2026-04-23,"Nilgiris, Tamil Nadu",Tamil Nadu,28.9,3.3,57,Sunny,0.79
+2026-04-23,"Sundarbans, West Bengal",West Bengal,31.8,7.7,64,Sunny,0.85
+2026-04-23,"Coorg, Karnataka",Karnataka,28.8,1.1,66,Sunny,0.79
+2026-04-24,"Wayanad, Kerala",Kerala,30.9,5.6,67,Sunny,0.83
+2026-04-24,"Nilgiris, Tamil Nadu",Tamil Nadu,29.0,1.6,59,Sunny,0.84
+2026-04-24,"Sundarbans, West Bengal",West Bengal,25.1,7.4,70,Sunny,0.88
+2026-04-24,"Coorg, Karnataka",Karnataka,28.3,1.4,70,Sunny,0.79
+2026-04-25,"Wayanad, Kerala",Kerala,26.8,0.9,65,Sunny,0.83
+2026-04-25,"Nilgiris, Tamil Nadu",Tamil Nadu,29.7,7.5,67,Sunny,0.79
+2026-04-25,"Sundarbans, West Bengal",West Bengal,30.5,6.8,66,Sunny,0.76
+2026-04-25,"Coorg, Karnataka",Karnataka,24.4,3.0,51,Sunny,0.78
+2026-04-26,"Wayanad, Kerala",Kerala,25.3,6.0,59,Sunny,0.84
+2026-04-26,"Nilgiris, Tamil Nadu",Tamil Nadu,24.5,1.2,59,Sunny,0.78
+2026-04-26,"Sundarbans, West Bengal",West Bengal,26.9,4.3,64,Sunny,0.76
+2026-04-26,"Coorg, Karnataka",Karnataka,29.9,6.9,57,Sunny,0.85
+2026-04-27,"Wayanad, Kerala",Kerala,25.9,4.5,59,Sunny,0.84
+2026-04-27,"Nilgiris, Tamil Nadu",Tamil Nadu,27.1,0.4,63,Sunny,0.87
+2026-04-27,"Sundarbans, West Bengal",West Bengal,26.5,7.8,67,Sunny,0.76
+2026-04-27,"Coorg, Karnataka",Karnataka,25.6,5.9,64,Sunny,0.86
+2026-04-28,"Wayanad, Kerala",Kerala,29.6,7.3,70,Sunny,0.8
+2026-04-28,"Nilgiris, Tamil Nadu",Tamil Nadu,29.9,4.7,56,Sunny,0.85
+2026-04-28,"Sundarbans, West Bengal",West Bengal,26.4,7.7,55,Sunny,0.88
+2026-04-28,"Coorg, Karnataka",Karnataka,31.7,0.6,66,Sunny,0.77
+2026-04-29,"Wayanad, Kerala",Kerala,26.2,0.3,58,Sunny,0.77
+2026-04-29,"Nilgiris, Tamil Nadu",Tamil Nadu,26.0,4.7,60,Sunny,0.81
+2026-04-29,"Sundarbans, West Bengal",West Bengal,24.3,7.5,60,Sunny,0.83
+2026-04-29,"Coorg, Karnataka",Karnataka,29.0,6.2,59,Sunny,0.81
+2026-04-30,"Wayanad, Kerala",Kerala,26.9,4.6,60,Sunny,0.82
+2026-04-30,"Nilgiris, Tamil Nadu",Tamil Nadu,28.2,7.7,66,Sunny,0.77
+2026-04-30,"Sundarbans, West Bengal",West Bengal,27.2,4.3,61,Sunny,0.78
+2026-04-30,"Coorg, Karnataka",Karnataka,26.7,1.7,61,Sunny,0.79
+2026-05-01,"Wayanad, Kerala",Kerala,28.9,7.6,65,Sunny,0.88
+2026-05-01,"Nilgiris, Tamil Nadu",Tamil Nadu,31.8,6.6,50,Sunny,0.76
+2026-05-01,"Sundarbans, West Bengal",West Bengal,25.9,2.8,70,Sunny,0.83
+2026-05-01,"Coorg, Karnataka",Karnataka,31.7,5.0,60,Sunny,0.8
+2026-05-02,"Wayanad, Kerala",Kerala,24.9,6.4,58,Sunny,0.82
+2026-05-02,"Nilgiris, Tamil Nadu",Tamil Nadu,31.3,2.3,61,Sunny,0.82
+2026-05-02,"Sundarbans, West Bengal",West Bengal,27.9,4.1,59,Sunny,0.87
+2026-05-02,"Coorg, Karnataka",Karnataka,28.1,1.5,53,Sunny,0.77
+2026-05-03,"Wayanad, Kerala",Kerala,28.3,7.7,50,Sunny,0.83
+2026-05-03,"Nilgiris, Tamil Nadu",Tamil Nadu,29.0,1.7,56,Sunny,0.86
+2026-05-03,"Sundarbans, West Bengal",West Bengal,24.8,3.4,67,Sunny,0.86
+2026-05-03,"Coorg, Karnataka",Karnataka,29.9,7.0,63,Sunny,0.83
+2026-05-04,"Wayanad, Kerala",Kerala,30.0,7.5,54,Sunny,0.75
+2026-05-04,"Nilgiris, Tamil Nadu",Tamil Nadu,24.3,5.7,52,Sunny,0.76
+2026-05-04,"Sundarbans, West Bengal",West Bengal,28.5,6.4,68,Sunny,0.86
+2026-05-04,"Coorg, Karnataka",Karnataka,27.3,7.3,64,Sunny,0.83
+2026-05-05,"Wayanad, Kerala",Kerala,24.1,3.5,53,Sunny,0.82
+2026-05-05,"Nilgiris, Tamil Nadu",Tamil Nadu,28.9,5.1,68,Sunny,0.76
+2026-05-05,"Sundarbans, West Bengal",West Bengal,26.9,6.8,66,Sunny,0.76
+2026-05-05,"Coorg, Karnataka",Karnataka,26.4,6.3,52,Sunny,0.79
+2026-05-06,"Wayanad, Kerala",Kerala,27.1,7.4,50,Sunny,0.81
+2026-05-06,"Nilgiris, Tamil Nadu",Tamil Nadu,25.1,4.3,62,Sunny,0.85
+2026-05-06,"Sundarbans, West Bengal",West Bengal,26.4,6.8,70,Sunny,0.77
+2026-05-06,"Coorg, Karnataka",Karnataka,31.3,5.4,70,Sunny,0.8
+2026-05-07,"Wayanad, Kerala",Kerala,28.4,7.6,67,Sunny,0.77
+2026-05-07,"Nilgiris, Tamil Nadu",Tamil Nadu,28.6,0.3,62,Sunny,0.82
+2026-05-07,"Sundarbans, West Bengal",West Bengal,26.4,7.6,61,Sunny,0.78
+2026-05-07,"Coorg, Karnataka",Karnataka,30.8,7.2,54,Sunny,0.77
+2026-05-08,"Wayanad, Kerala",Kerala,30.7,1.8,56,Sunny,0.76
+2026-05-08,"Nilgiris, Tamil Nadu",Tamil Nadu,28.5,5.4,51,Sunny,0.86
+2026-05-08,"Sundarbans, West Bengal",West Bengal,32.0,7.5,64,Sunny,0.83
+2026-05-08,"Coorg, Karnataka",Karnataka,29.4,0.6,58,Sunny,0.76
+2026-05-09,"Wayanad, Kerala",Kerala,27.9,5.8,60,Sunny,0.8
+2026-05-09,"Nilgiris, Tamil Nadu",Tamil Nadu,25.9,5.4,59,Sunny,0.83
+2026-05-09,"Sundarbans, West Bengal",West Bengal,26.5,7.2,64,Sunny,0.79
+2026-05-09,"Coorg, Karnataka",Karnataka,29.5,5.3,54,Sunny,0.82
+2026-05-10,"Wayanad, Kerala",Kerala,26.5,2.9,63,Sunny,0.77
+2026-05-10,"Nilgiris, Tamil Nadu",Tamil Nadu,30.3,2.5,70,Sunny,0.81
+2026-05-10,"Sundarbans, West Bengal",West Bengal,25.1,6.7,60,Sunny,0.86
+2026-05-10,"Coorg, Karnataka",Karnataka,26.9,3.7,59,Sunny,0.81
+2026-05-11,"Wayanad, Kerala",Kerala,29.2,0.9,52,Sunny,0.86
+2026-05-11,"Nilgiris, Tamil Nadu",Tamil Nadu,25.1,6.9,67,Sunny,0.78
+2026-05-11,"Sundarbans, West Bengal",West Bengal,29.0,5.9,52,Sunny,0.87
+2026-05-11,"Coorg, Karnataka",Karnataka,29.1,6.8,68,Sunny,0.83
+2026-05-12,"Wayanad, Kerala",Kerala,25.7,6.2,51,Sunny,0.82
+2026-05-12,"Nilgiris, Tamil Nadu",Tamil Nadu,32.0,4.3,65,Sunny,0.84
+2026-05-12,"Sundarbans, West Bengal",West Bengal,27.1,1.2,68,Sunny,0.85
+2026-05-12,"Coorg, Karnataka",Karnataka,27.7,2.3,66,Sunny,0.76
+2026-05-13,"Wayanad, Kerala",Kerala,24.1,2.9,57,Sunny,0.86
+2026-05-13,"Nilgiris, Tamil Nadu",Tamil Nadu,28.9,6.5,55,Sunny,0.85
+2026-05-13,"Sundarbans, West Bengal",West Bengal,25.3,1.1,68,Sunny,0.87
+2026-05-13,"Coorg, Karnataka",Karnataka,31.7,5.3,65,Sunny,0.87
+2026-05-14,"Wayanad, Kerala",Kerala,30.1,0.3,57,Sunny,0.76
+2026-05-14,"Nilgiris, Tamil Nadu",Tamil Nadu,24.3,3.0,56,Sunny,0.82
+2026-05-14,"Sundarbans, West Bengal",West Bengal,27.1,6.3,64,Sunny,0.86
+2026-05-14,"Coorg, Karnataka",Karnataka,29.2,0.3,53,Sunny,0.84
+2026-05-15,"Wayanad, Kerala",Kerala,30.6,4.2,58,Sunny,0.83
+2026-05-15,"Nilgiris, Tamil Nadu",Tamil Nadu,27.0,4.6,62,Sunny,0.8
+2026-05-15,"Sundarbans, West Bengal",West Bengal,30.7,5.2,66,Sunny,0.78
+2026-05-15,"Coorg, Karnataka",Karnataka,25.8,7.8,62,Sunny,0.8
+2026-05-16,"Wayanad, Kerala",Kerala,27.9,6.9,65,Sunny,0.87
+2026-05-16,"Nilgiris, Tamil Nadu",Tamil Nadu,31.1,0.1,64,Sunny,0.77
+2026-05-16,"Sundarbans, West Bengal",West Bengal,29.1,0.6,56,Sunny,0.77
+2026-05-16,"Coorg, Karnataka",Karnataka,28.8,1.3,53,Sunny,0.84
+2026-05-17,"Wayanad, Kerala",Kerala,26.6,3.3,53,Sunny,0.81
+2026-05-17,"Nilgiris, Tamil Nadu",Tamil Nadu,25.7,3.8,55,Sunny,0.83
+2026-05-17,"Sundarbans, West Bengal",West Bengal,25.9,3.3,54,Sunny,0.82
+2026-05-17,"Coorg, Karnataka",Karnataka,29.0,1.3,51,Sunny,0.87
+2026-05-18,"Wayanad, Kerala",Kerala,25.3,1.2,55,Sunny,0.82
+2026-05-18,"Nilgiris, Tamil Nadu",Tamil Nadu,31.8,3.2,70,Sunny,0.75
+2026-05-18,"Sundarbans, West Bengal",West Bengal,29.3,5.8,59,Sunny,0.87
+2026-05-18,"Coorg, Karnataka",Karnataka,28.9,1.7,65,Sunny,0.86
+2026-05-19,"Wayanad, Kerala",Kerala,30.6,1.4,69,Sunny,0.77
+2026-05-19,"Nilgiris, Tamil Nadu",Tamil Nadu,30.1,4.7,69,Sunny,0.84
+2026-05-19,"Sundarbans, West Bengal",West Bengal,29.8,2.1,60,Sunny,0.87
+2026-05-19,"Coorg, Karnataka",Karnataka,24.6,4.8,62,Sunny,0.8
+2026-05-20,"Wayanad, Kerala",Kerala,25.6,0.9,66,Sunny,0.84
+2026-05-20,"Nilgiris, Tamil Nadu",Tamil Nadu,28.8,6.6,55,Sunny,0.81
+2026-05-20,"Sundarbans, West Bengal",West Bengal,24.3,4.9,67,Sunny,0.82
+2026-05-20,"Coorg, Karnataka",Karnataka,27.9,0.9,54,Sunny,0.87
+2026-05-21,"Wayanad, Kerala",Kerala,24.0,4.3,70,Sunny,0.81
+2026-05-21,"Nilgiris, Tamil Nadu",Tamil Nadu,31.0,3.4,66,Sunny,0.81
+2026-05-21,"Sundarbans, West Bengal",West Bengal,27.9,7.5,62,Sunny,0.8
+2026-05-21,"Coorg, Karnataka",Karnataka,31.3,6.4,68,Sunny,0.76
+2026-05-22,"Wayanad, Kerala",Kerala,27.8,1.1,57,Sunny,0.87
+2026-05-22,"Nilgiris, Tamil Nadu",Tamil Nadu,28.8,0.7,67,Sunny,0.8
+2026-05-22,"Sundarbans, West Bengal",West Bengal,29.7,1.5,50,Sunny,0.83
+2026-05-22,"Coorg, Karnataka",Karnataka,24.1,0.9,70,Sunny,0.78
+2026-05-23,"Wayanad, Kerala",Kerala,27.3,6.4,53,Sunny,0.77
+2026-05-23,"Nilgiris, Tamil Nadu",Tamil Nadu,26.0,5.2,67,Sunny,0.81
+2026-05-23,"Sundarbans, West Bengal",West Bengal,26.2,2.9,62,Sunny,0.85
+2026-05-23,"Coorg, Karnataka",Karnataka,30.3,3.3,65,Sunny,0.77
+2026-05-24,"Wayanad, Kerala",Kerala,27.9,4.5,59,Sunny,0.83
+2026-05-24,"Nilgiris, Tamil Nadu",Tamil Nadu,27.2,6.2,54,Sunny,0.86
+2026-05-24,"Sundarbans, West Bengal",West Bengal,30.0,5.3,64,Sunny,0.85
+2026-05-24,"Coorg, Karnataka",Karnataka,24.8,7.6,66,Sunny,0.8
+2026-05-25,"Wayanad, Kerala",Kerala,28.4,2.7,51,Sunny,0.77
+2026-05-25,"Nilgiris, Tamil Nadu",Tamil Nadu,24.0,7.7,52,Sunny,0.86
+2026-05-25,"Sundarbans, West Bengal",West Bengal,28.8,3.8,52,Sunny,0.76
+2026-05-25,"Coorg, Karnataka",Karnataka,24.6,1.8,51,Sunny,0.84
+2026-05-26,"Wayanad, Kerala",Kerala,27.2,7.4,70,Sunny,0.82
+2026-05-26,"Nilgiris, Tamil Nadu",Tamil Nadu,28.8,5.7,55,Sunny,0.83
+2026-05-26,"Sundarbans, West Bengal",West Bengal,25.6,3.5,66,Sunny,0.79
+2026-05-26,"Coorg, Karnataka",Karnataka,28.8,0.3,66,Sunny,0.84
+2026-05-27,"Wayanad, Kerala",Kerala,29.4,4.9,61,Sunny,0.78
+2026-05-27,"Nilgiris, Tamil Nadu",Tamil Nadu,25.3,0.0,58,Sunny,0.85
+2026-05-27,"Sundarbans, West Bengal",West Bengal,27.2,2.8,68,Sunny,0.78
+2026-05-27,"Coorg, Karnataka",Karnataka,29.6,0.1,52,Sunny,0.82
+2026-05-28,"Wayanad, Kerala",Kerala,28.5,5.8,68,Sunny,0.8
+2026-05-28,"Nilgiris, Tamil Nadu",Tamil Nadu,26.2,7.7,69,Sunny,0.88
+2026-05-28,"Sundarbans, West Bengal",West Bengal,27.2,3.6,50,Sunny,0.78
+2026-05-28,"Coorg, Karnataka",Karnataka,24.9,3.3,52,Sunny,0.82
+2026-05-29,"Wayanad, Kerala",Kerala,24.9,2.7,66,Sunny,0.87
+2026-05-29,"Nilgiris, Tamil Nadu",Tamil Nadu,30.5,7.0,68,Sunny,0.78
+2026-05-29,"Sundarbans, West Bengal",West Bengal,27.0,3.5,65,Sunny,0.85
+2026-05-29,"Coorg, Karnataka",Karnataka,31.7,6.1,64,Sunny,0.84
+2026-05-30,"Wayanad, Kerala",Kerala,30.9,7.2,65,Sunny,0.77
+2026-05-30,"Nilgiris, Tamil Nadu",Tamil Nadu,29.1,0.5,57,Sunny,0.84
+2026-05-30,"Sundarbans, West Bengal",West Bengal,26.5,1.8,61,Sunny,0.82
+2026-05-30,"Coorg, Karnataka",Karnataka,30.7,0.1,57,Sunny,0.79
+2026-05-31,"Wayanad, Kerala",Kerala,30.0,3.2,60,Sunny,0.76
+2026-05-31,"Nilgiris, Tamil Nadu",Tamil Nadu,27.8,7.5,61,Sunny,0.78
+2026-05-31,"Sundarbans, West Bengal",West Bengal,25.5,4.6,56,Sunny,0.81
+2026-05-31,"Coorg, Karnataka",Karnataka,29.9,1.6,58,Sunny,0.78
+2026-06-01,"Wayanad, Kerala",Kerala,21.5,25.1,93,Moderate Rain,0.58
+2026-06-01,"Nilgiris, Tamil Nadu",Tamil Nadu,25.5,10.9,97,Moderate Rain,0.67
+2026-06-01,"Sundarbans, West Bengal",West Bengal,23.2,28.6,83,Moderate Rain,0.72
+2026-06-01,"Coorg, Karnataka",Karnataka,21.9,33.6,90,Moderate Rain,0.65
+2026-06-02,"Wayanad, Kerala",Kerala,25.5,64.2,90,Heavy Rain,0.63
+2026-06-02,"Nilgiris, Tamil Nadu",Tamil Nadu,20.8,28.3,98,Moderate Rain,0.71
+2026-06-02,"Sundarbans, West Bengal",West Bengal,23.2,20.9,98,Moderate Rain,0.62
+2026-06-02,"Coorg, Karnataka",Karnataka,24.7,58.0,96,Heavy Rain,0.75
+2026-06-03,"Wayanad, Kerala",Kerala,22.8,49.9,82,Heavy Rain,0.55
+2026-06-03,"Nilgiris, Tamil Nadu",Tamil Nadu,23.5,13.7,92,Moderate Rain,0.62
+2026-06-03,"Sundarbans, West Bengal",West Bengal,21.1,31.3,90,Moderate Rain,0.6
+2026-06-03,"Coorg, Karnataka",Karnataka,23.7,38.6,93,Heavy Rain,0.59
+2026-06-04,"Wayanad, Kerala",Kerala,22.5,36.2,93,Heavy Rain,0.62
+2026-06-04,"Nilgiris, Tamil Nadu",Tamil Nadu,22.7,18.8,86,Moderate Rain,0.75
+2026-06-04,"Sundarbans, West Bengal",West Bengal,24.9,26.5,90,Moderate Rain,0.71
+2026-06-04,"Coorg, Karnataka",Karnataka,25.1,42.8,88,Heavy Rain,0.58
+2026-06-05,"Wayanad, Kerala",Kerala,20.9,63.0,82,Heavy Rain,0.59
+2026-06-05,"Nilgiris, Tamil Nadu",Tamil Nadu,26.0,21.5,98,Moderate Rain,0.66
+2026-06-05,"Sundarbans, West Bengal",West Bengal,22.9,16.5,90,Moderate Rain,0.66
+2026-06-05,"Coorg, Karnataka",Karnataka,22.4,43.4,87,Heavy Rain,0.56
+2026-06-06,"Wayanad, Kerala",Kerala,22.9,55.7,85,Heavy Rain,0.64
+2026-06-06,"Nilgiris, Tamil Nadu",Tamil Nadu,22.2,17.0,90,Moderate Rain,0.62
+2026-06-06,"Sundarbans, West Bengal",West Bengal,22.1,19.1,88,Moderate Rain,0.67
+2026-06-06,"Coorg, Karnataka",Karnataka,23.2,47.5,91,Heavy Rain,0.62
+2026-06-07,"Wayanad, Kerala",Kerala,22.9,48.7,96,Heavy Rain,0.73
+2026-06-07,"Nilgiris, Tamil Nadu",Tamil Nadu,21.7,18.3,86,Moderate Rain,0.72
+2026-06-07,"Sundarbans, West Bengal",West Bengal,25.6,25.3,95,Moderate Rain,0.68
+2026-06-07,"Coorg, Karnataka",Karnataka,25.1,43.6,84,Heavy Rain,0.57
+2026-06-08,"Wayanad, Kerala",Kerala,21.9,32.2,91,Moderate Rain,0.69
+2026-06-08,"Nilgiris, Tamil Nadu",Tamil Nadu,22.4,24.3,96,Moderate Rain,0.71
+2026-06-08,"Sundarbans, West Bengal",West Bengal,24.5,33.3,98,Moderate Rain,0.74
+2026-06-08,"Coorg, Karnataka",Karnataka,21.1,35.7,82,Heavy Rain,0.58
+2026-06-09,"Wayanad, Kerala",Kerala,21.5,26.7,84,Moderate Rain,0.59
+2026-06-09,"Nilgiris, Tamil Nadu",Tamil Nadu,20.6,18.7,97,Moderate Rain,0.66
+2026-06-09,"Sundarbans, West Bengal",West Bengal,22.4,8.7,84,Moderate Rain,0.57
+2026-06-09,"Coorg, Karnataka",Karnataka,20.5,45.9,94,Heavy Rain,0.61
+2026-06-10,"Wayanad, Kerala",Kerala,21.7,27.4,86,Moderate Rain,0.58
+2026-06-10,"Nilgiris, Tamil Nadu",Tamil Nadu,20.2,30.6,93,Moderate Rain,0.72
+2026-06-10,"Sundarbans, West Bengal",West Bengal,22.9,16.8,90,Moderate Rain,0.66
+2026-06-10,"Coorg, Karnataka",Karnataka,25.7,21.8,87,Moderate Rain,0.67
+2026-06-11,"Wayanad, Kerala",Kerala,24.5,37.8,95,Heavy Rain,0.65
+2026-06-11,"Nilgiris, Tamil Nadu",Tamil Nadu,21.9,25.3,93,Moderate Rain,0.65
+2026-06-11,"Sundarbans, West Bengal",West Bengal,20.5,14.1,91,Moderate Rain,0.62
+2026-06-11,"Coorg, Karnataka",Karnataka,21.8,28.0,82,Moderate Rain,0.65
+2026-06-12,"Wayanad, Kerala",Kerala,20.8,52.9,91,Heavy Rain,0.64
+2026-06-12,"Nilgiris, Tamil Nadu",Tamil Nadu,25.5,8.2,97,Moderate Rain,0.61
+2026-06-12,"Sundarbans, West Bengal",West Bengal,24.8,28.7,89,Moderate Rain,0.71
+2026-06-12,"Coorg, Karnataka",Karnataka,21.1,42.4,95,Heavy Rain,0.63
+2026-06-13,"Wayanad, Kerala",Kerala,24.4,23.2,94,Moderate Rain,0.72
+2026-06-13,"Nilgiris, Tamil Nadu",Tamil Nadu,20.5,14.0,89,Moderate Rain,0.65
+2026-06-13,"Sundarbans, West Bengal",West Bengal,23.7,29.6,90,Moderate Rain,0.61
+2026-06-13,"Coorg, Karnataka",Karnataka,24.9,52.1,95,Heavy Rain,0.59
+2026-06-14,"Wayanad, Kerala",Kerala,20.8,18.4,85,Moderate Rain,0.68
+2026-06-14,"Nilgiris, Tamil Nadu",Tamil Nadu,21.6,24.7,97,Moderate Rain,0.59
+2026-06-14,"Sundarbans, West Bengal",West Bengal,20.3,8.5,82,Moderate Rain,0.59
+2026-06-14,"Coorg, Karnataka",Karnataka,21.6,20.1,96,Moderate Rain,0.7
+2026-06-15,"Wayanad, Kerala",Kerala,20.9,26.6,97,Moderate Rain,0.59
+2026-06-15,"Nilgiris, Tamil Nadu",Tamil Nadu,24.7,19.3,97,Moderate Rain,0.75
+2026-06-15,"Sundarbans, West Bengal",West Bengal,24.7,20.5,92,Moderate Rain,0.57
+2026-06-15,"Coorg, Karnataka",Karnataka,20.9,52.5,90,Heavy Rain,0.71
+2026-06-16,"Wayanad, Kerala",Kerala,22.8,18.6,88,Moderate Rain,0.73
+2026-06-16,"Nilgiris, Tamil Nadu",Tamil Nadu,22.3,14.8,82,Moderate Rain,0.57
+2026-06-16,"Sundarbans, West Bengal",West Bengal,21.5,28.7,96,Moderate Rain,0.6
+2026-06-16,"Coorg, Karnataka",Karnataka,21.2,64.7,85,Heavy Rain,0.65
+2026-06-17,"Wayanad, Kerala",Kerala,22.8,64.1,91,Heavy Rain,0.74
+2026-06-17,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,12.3,98,Moderate Rain,0.57
+2026-06-17,"Sundarbans, West Bengal",West Bengal,21.8,21.0,93,Moderate Rain,0.73
+2026-06-17,"Coorg, Karnataka",Karnataka,21.3,58.2,85,Heavy Rain,0.6
+2026-06-18,"Wayanad, Kerala",Kerala,20.1,36.7,90,Heavy Rain,0.67
+2026-06-18,"Nilgiris, Tamil Nadu",Tamil Nadu,21.5,18.7,83,Moderate Rain,0.67
+2026-06-18,"Sundarbans, West Bengal",West Bengal,24.1,26.7,86,Moderate Rain,0.62
+2026-06-18,"Coorg, Karnataka",Karnataka,20.9,19.5,84,Moderate Rain,0.69
+2026-06-19,"Wayanad, Kerala",Kerala,25.8,31.9,83,Moderate Rain,0.56
+2026-06-19,"Nilgiris, Tamil Nadu",Tamil Nadu,24.2,25.4,85,Moderate Rain,0.58
+2026-06-19,"Sundarbans, West Bengal",West Bengal,25.9,14.3,93,Moderate Rain,0.71
+2026-06-19,"Coorg, Karnataka",Karnataka,21.2,36.9,94,Heavy Rain,0.62
+2026-06-20,"Wayanad, Kerala",Kerala,25.4,21.7,97,Moderate Rain,0.69
+2026-06-20,"Nilgiris, Tamil Nadu",Tamil Nadu,23.3,23.1,97,Moderate Rain,0.59
+2026-06-20,"Sundarbans, West Bengal",West Bengal,22.1,13.0,96,Moderate Rain,0.61
+2026-06-20,"Coorg, Karnataka",Karnataka,25.5,56.6,87,Heavy Rain,0.56
+2026-06-21,"Wayanad, Kerala",Kerala,21.8,22.8,90,Moderate Rain,0.66
+2026-06-21,"Nilgiris, Tamil Nadu",Tamil Nadu,24.7,20.3,98,Moderate Rain,0.63
+2026-06-21,"Sundarbans, West Bengal",West Bengal,20.1,13.0,93,Moderate Rain,0.71
+2026-06-21,"Coorg, Karnataka",Karnataka,24.3,26.9,94,Moderate Rain,0.59
+2026-06-22,"Wayanad, Kerala",Kerala,24.6,49.2,86,Heavy Rain,0.67
+2026-06-22,"Nilgiris, Tamil Nadu",Tamil Nadu,23.8,16.7,85,Moderate Rain,0.57
+2026-06-22,"Sundarbans, West Bengal",West Bengal,20.3,25.8,86,Moderate Rain,0.59
+2026-06-22,"Coorg, Karnataka",Karnataka,20.6,16.6,88,Moderate Rain,0.57
+2026-06-23,"Wayanad, Kerala",Kerala,25.0,43.6,97,Heavy Rain,0.66
+2026-06-23,"Nilgiris, Tamil Nadu",Tamil Nadu,21.5,26.9,93,Moderate Rain,0.59
+2026-06-23,"Sundarbans, West Bengal",West Bengal,20.1,27.4,88,Moderate Rain,0.68
+2026-06-23,"Coorg, Karnataka",Karnataka,25.0,61.4,96,Heavy Rain,0.71
+2026-06-24,"Wayanad, Kerala",Kerala,23.3,18.0,95,Moderate Rain,0.71
+2026-06-24,"Nilgiris, Tamil Nadu",Tamil Nadu,20.3,29.4,90,Moderate Rain,0.66
+2026-06-24,"Sundarbans, West Bengal",West Bengal,25.0,27.8,84,Moderate Rain,0.74
+2026-06-24,"Coorg, Karnataka",Karnataka,20.6,63.0,89,Heavy Rain,0.66
+2026-06-25,"Wayanad, Kerala",Kerala,23.2,24.5,89,Moderate Rain,0.66
+2026-06-25,"Nilgiris, Tamil Nadu",Tamil Nadu,23.4,33.6,95,Moderate Rain,0.7
+2026-06-25,"Sundarbans, West Bengal",West Bengal,23.5,28.7,96,Moderate Rain,0.69
+2026-06-25,"Coorg, Karnataka",Karnataka,20.6,36.4,87,Heavy Rain,0.66
+2026-06-26,"Wayanad, Kerala",Kerala,23.9,40.2,96,Heavy Rain,0.74
+2026-06-26,"Nilgiris, Tamil Nadu",Tamil Nadu,23.3,32.4,92,Moderate Rain,0.72
+2026-06-26,"Sundarbans, West Bengal",West Bengal,23.8,19.1,92,Moderate Rain,0.67
+2026-06-26,"Coorg, Karnataka",Karnataka,21.3,43.2,90,Heavy Rain,0.62
+2026-06-27,"Wayanad, Kerala",Kerala,25.8,37.6,82,Heavy Rain,0.7
+2026-06-27,"Nilgiris, Tamil Nadu",Tamil Nadu,23.6,34.5,98,Moderate Rain,0.58
+2026-06-27,"Sundarbans, West Bengal",West Bengal,20.0,32.0,89,Moderate Rain,0.59
+2026-06-27,"Coorg, Karnataka",Karnataka,24.6,30.7,90,Moderate Rain,0.73
+2026-06-28,"Wayanad, Kerala",Kerala,23.4,40.6,86,Heavy Rain,0.57
+2026-06-28,"Nilgiris, Tamil Nadu",Tamil Nadu,20.9,20.4,90,Moderate Rain,0.62
+2026-06-28,"Sundarbans, West Bengal",West Bengal,21.4,23.7,91,Moderate Rain,0.57
+2026-06-28,"Coorg, Karnataka",Karnataka,25.5,35.0,84,Moderate Rain,0.69
+2026-06-29,"Wayanad, Kerala",Kerala,21.0,54.6,85,Heavy Rain,0.67
+2026-06-29,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,16.1,94,Moderate Rain,0.57
+2026-06-29,"Sundarbans, West Bengal",West Bengal,24.6,9.5,93,Moderate Rain,0.73
+2026-06-29,"Coorg, Karnataka",Karnataka,25.6,36.7,85,Heavy Rain,0.72
+2026-06-30,"Wayanad, Kerala",Kerala,23.9,26.3,82,Moderate Rain,0.68
+2026-06-30,"Nilgiris, Tamil Nadu",Tamil Nadu,20.3,25.1,98,Moderate Rain,0.56
+2026-06-30,"Sundarbans, West Bengal",West Bengal,20.9,22.6,98,Moderate Rain,0.69
+2026-06-30,"Coorg, Karnataka",Karnataka,24.0,22.7,94,Moderate Rain,0.74
+2026-07-01,"Wayanad, Kerala",Kerala,23.5,52.6,84,Heavy Rain,0.59
+2026-07-01,"Nilgiris, Tamil Nadu",Tamil Nadu,22.4,15.8,86,Moderate Rain,0.62
+2026-07-01,"Sundarbans, West Bengal",West Bengal,24.5,20.8,94,Moderate Rain,0.6
+2026-07-01,"Coorg, Karnataka",Karnataka,22.6,34.9,86,Moderate Rain,0.7
+2026-07-02,"Wayanad, Kerala",Kerala,21.2,39.0,94,Heavy Rain,0.68
+2026-07-02,"Nilgiris, Tamil Nadu",Tamil Nadu,23.7,13.3,98,Moderate Rain,0.6
+2026-07-02,"Sundarbans, West Bengal",West Bengal,24.7,9.9,92,Moderate Rain,0.69
+2026-07-02,"Coorg, Karnataka",Karnataka,20.7,43.8,95,Heavy Rain,0.63
+2026-07-03,"Wayanad, Kerala",Kerala,21.9,32.4,82,Moderate Rain,0.7
+2026-07-03,"Nilgiris, Tamil Nadu",Tamil Nadu,22.1,12.6,96,Moderate Rain,0.67
+2026-07-03,"Sundarbans, West Bengal",West Bengal,25.5,19.9,89,Moderate Rain,0.59
+2026-07-03,"Coorg, Karnataka",Karnataka,24.5,33.7,84,Moderate Rain,0.57
+2026-07-04,"Wayanad, Kerala",Kerala,25.7,17.7,86,Moderate Rain,0.72
+2026-07-04,"Nilgiris, Tamil Nadu",Tamil Nadu,20.1,30.1,85,Moderate Rain,0.61
+2026-07-04,"Sundarbans, West Bengal",West Bengal,22.0,20.7,88,Moderate Rain,0.59
+2026-07-04,"Coorg, Karnataka",Karnataka,21.6,41.2,97,Heavy Rain,0.67
+2026-07-05,"Wayanad, Kerala",Kerala,24.2,64.6,82,Heavy Rain,0.63
+2026-07-05,"Nilgiris, Tamil Nadu",Tamil Nadu,23.2,32.5,90,Moderate Rain,0.58
+2026-07-05,"Sundarbans, West Bengal",West Bengal,24.7,15.7,90,Moderate Rain,0.56
+2026-07-05,"Coorg, Karnataka",Karnataka,20.1,47.7,94,Heavy Rain,0.68
+2026-07-06,"Wayanad, Kerala",Kerala,25.5,48.1,93,Heavy Rain,0.72
+2026-07-06,"Nilgiris, Tamil Nadu",Tamil Nadu,25.2,8.5,94,Moderate Rain,0.6
+2026-07-06,"Sundarbans, West Bengal",West Bengal,25.9,18.3,85,Moderate Rain,0.73
+2026-07-06,"Coorg, Karnataka",Karnataka,23.6,39.2,84,Heavy Rain,0.59
+2026-07-07,"Wayanad, Kerala",Kerala,22.7,40.0,82,Heavy Rain,0.56
+2026-07-07,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,32.9,97,Moderate Rain,0.63
+2026-07-07,"Sundarbans, West Bengal",West Bengal,22.1,12.2,93,Moderate Rain,0.62
+2026-07-07,"Coorg, Karnataka",Karnataka,26.0,30.1,98,Moderate Rain,0.61
+2026-07-08,"Wayanad, Kerala",Kerala,21.5,18.1,94,Moderate Rain,0.73
+2026-07-08,"Nilgiris, Tamil Nadu",Tamil Nadu,20.2,30.0,90,Moderate Rain,0.6
+2026-07-08,"Sundarbans, West Bengal",West Bengal,22.4,17.2,86,Moderate Rain,0.57
+2026-07-08,"Coorg, Karnataka",Karnataka,25.8,34.1,89,Moderate Rain,0.63
+2026-07-09,"Wayanad, Kerala",Kerala,22.6,43.6,91,Heavy Rain,0.73
+2026-07-09,"Nilgiris, Tamil Nadu",Tamil Nadu,23.3,16.9,88,Moderate Rain,0.68
+2026-07-09,"Sundarbans, West Bengal",West Bengal,24.1,23.7,88,Moderate Rain,0.72
+2026-07-09,"Coorg, Karnataka",Karnataka,24.2,30.4,98,Moderate Rain,0.73
+2026-07-10,"Wayanad, Kerala",Kerala,25.5,36.5,86,Heavy Rain,0.68
+2026-07-10,"Nilgiris, Tamil Nadu",Tamil Nadu,20.9,23.3,84,Moderate Rain,0.66
+2026-07-10,"Sundarbans, West Bengal",West Bengal,20.7,33.6,92,Moderate Rain,0.72
+2026-07-10,"Coorg, Karnataka",Karnataka,20.2,22.3,92,Moderate Rain,0.73
+2026-07-11,"Wayanad, Kerala",Kerala,22.5,35.7,96,Heavy Rain,0.7
+2026-07-11,"Nilgiris, Tamil Nadu",Tamil Nadu,23.8,30.2,90,Moderate Rain,0.58
+2026-07-11,"Sundarbans, West Bengal",West Bengal,20.8,13.1,82,Moderate Rain,0.7
+2026-07-11,"Coorg, Karnataka",Karnataka,21.6,45.6,89,Heavy Rain,0.67
+2026-07-12,"Wayanad, Kerala",Kerala,20.2,26.5,84,Moderate Rain,0.69
+2026-07-12,"Nilgiris, Tamil Nadu",Tamil Nadu,23.0,20.9,97,Moderate Rain,0.69
+2026-07-12,"Sundarbans, West Bengal",West Bengal,25.1,18.1,97,Moderate Rain,0.64
+2026-07-12,"Coorg, Karnataka",Karnataka,21.4,23.2,95,Moderate Rain,0.7
+2026-07-13,"Wayanad, Kerala",Kerala,21.6,15.8,95,Moderate Rain,0.59
+2026-07-13,"Nilgiris, Tamil Nadu",Tamil Nadu,21.2,26.1,88,Moderate Rain,0.56
+2026-07-13,"Sundarbans, West Bengal",West Bengal,25.9,33.0,97,Moderate Rain,0.69
+2026-07-13,"Coorg, Karnataka",Karnataka,25.3,58.3,95,Heavy Rain,0.63
+2026-07-14,"Wayanad, Kerala",Kerala,24.4,17.1,94,Moderate Rain,0.69
+2026-07-14,"Nilgiris, Tamil Nadu",Tamil Nadu,25.6,18.6,98,Moderate Rain,0.68
+2026-07-14,"Sundarbans, West Bengal",West Bengal,20.2,27.0,85,Moderate Rain,0.64
+2026-07-14,"Coorg, Karnataka",Karnataka,20.3,56.4,89,Heavy Rain,0.65
+2026-07-15,"Wayanad, Kerala",Kerala,24.4,34.8,94,Moderate Rain,0.65
+2026-07-15,"Nilgiris, Tamil Nadu",Tamil Nadu,20.3,25.0,91,Moderate Rain,0.64
+2026-07-15,"Sundarbans, West Bengal",West Bengal,24.6,31.9,91,Moderate Rain,0.64
+2026-07-15,"Coorg, Karnataka",Karnataka,23.7,36.1,83,Heavy Rain,0.69
+2026-07-16,"Wayanad, Kerala",Kerala,22.8,60.2,96,Heavy Rain,0.57
+2026-07-16,"Nilgiris, Tamil Nadu",Tamil Nadu,21.1,21.5,86,Moderate Rain,0.63
+2026-07-16,"Sundarbans, West Bengal",West Bengal,20.1,16.7,96,Moderate Rain,0.67
+2026-07-16,"Coorg, Karnataka",Karnataka,21.2,50.6,96,Heavy Rain,0.57
+2026-07-17,"Wayanad, Kerala",Kerala,23.9,31.2,87,Moderate Rain,0.69
+2026-07-17,"Nilgiris, Tamil Nadu",Tamil Nadu,20.7,11.3,96,Moderate Rain,0.68
+2026-07-17,"Sundarbans, West Bengal",West Bengal,24.2,10.3,98,Moderate Rain,0.67
+2026-07-17,"Coorg, Karnataka",Karnataka,23.3,23.0,83,Moderate Rain,0.7
+2026-07-18,"Wayanad, Kerala",Kerala,23.4,60.6,86,Heavy Rain,0.58
+2026-07-18,"Nilgiris, Tamil Nadu",Tamil Nadu,24.6,11.9,83,Moderate Rain,0.63
+2026-07-18,"Sundarbans, West Bengal",West Bengal,24.6,16.4,96,Moderate Rain,0.61
+2026-07-18,"Coorg, Karnataka",Karnataka,25.4,24.0,88,Moderate Rain,0.55
+2026-07-19,"Wayanad, Kerala",Kerala,20.1,53.3,97,Heavy Rain,0.72
+2026-07-19,"Nilgiris, Tamil Nadu",Tamil Nadu,20.0,22.7,97,Moderate Rain,0.6
+2026-07-19,"Sundarbans, West Bengal",West Bengal,22.9,23.9,95,Moderate Rain,0.64
+2026-07-19,"Coorg, Karnataka",Karnataka,20.0,45.1,90,Heavy Rain,0.67
+2026-07-20,"Wayanad, Kerala",Kerala,25.0,42.9,83,Heavy Rain,0.59
+2026-07-20,"Nilgiris, Tamil Nadu",Tamil Nadu,22.1,9.5,86,Moderate Rain,0.72
+2026-07-20,"Sundarbans, West Bengal",West Bengal,25.0,26.0,91,Moderate Rain,0.62
+2026-07-20,"Coorg, Karnataka",Karnataka,20.7,19.4,87,Moderate Rain,0.58
+2026-07-21,"Wayanad, Kerala",Kerala,24.0,29.2,87,Moderate Rain,0.74
+2026-07-21,"Nilgiris, Tamil Nadu",Tamil Nadu,22.2,28.2,83,Moderate Rain,0.57
+2026-07-21,"Sundarbans, West Bengal",West Bengal,22.2,16.1,94,Moderate Rain,0.71
+2026-07-21,"Coorg, Karnataka",Karnataka,25.1,52.9,84,Heavy Rain,0.61
+2026-07-22,"Wayanad, Kerala",Kerala,24.2,21.7,90,Moderate Rain,0.62
+2026-07-22,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,19.2,88,Moderate Rain,0.67
+2026-07-22,"Sundarbans, West Bengal",West Bengal,24.4,11.0,98,Moderate Rain,0.75
+2026-07-22,"Coorg, Karnataka",Karnataka,24.1,39.2,91,Heavy Rain,0.64
+2026-07-23,"Wayanad, Kerala",Kerala,21.6,57.4,93,Heavy Rain,0.74
+2026-07-23,"Nilgiris, Tamil Nadu",Tamil Nadu,23.0,24.6,97,Moderate Rain,0.65
+2026-07-23,"Sundarbans, West Bengal",West Bengal,23.7,12.9,91,Moderate Rain,0.75
+2026-07-23,"Coorg, Karnataka",Karnataka,20.1,15.1,85,Moderate Rain,0.7
+2026-07-24,"Wayanad, Kerala",Kerala,23.7,25.4,95,Moderate Rain,0.63
+2026-07-24,"Nilgiris, Tamil Nadu",Tamil Nadu,23.4,17.0,88,Moderate Rain,0.55
+2026-07-24,"Sundarbans, West Bengal",West Bengal,21.7,13.4,84,Moderate Rain,0.61
+2026-07-24,"Coorg, Karnataka",Karnataka,21.9,40.3,82,Heavy Rain,0.57
+2026-07-25,"Wayanad, Kerala",Kerala,22.4,31.7,82,Moderate Rain,0.72
+2026-07-25,"Nilgiris, Tamil Nadu",Tamil Nadu,25.0,13.2,97,Moderate Rain,0.73
+2026-07-25,"Sundarbans, West Bengal",West Bengal,23.9,29.5,97,Moderate Rain,0.58
+2026-07-25,"Coorg, Karnataka",Karnataka,25.2,38.0,92,Heavy Rain,0.64
+2026-07-26,"Wayanad, Kerala",Kerala,25.6,55.7,83,Heavy Rain,0.72
+2026-07-26,"Nilgiris, Tamil Nadu",Tamil Nadu,24.3,16.1,92,Moderate Rain,0.66
+2026-07-26,"Sundarbans, West Bengal",West Bengal,23.5,8.5,92,Moderate Rain,0.71
+2026-07-26,"Coorg, Karnataka",Karnataka,22.1,59.4,86,Heavy Rain,0.61
+2026-07-27,"Wayanad, Kerala",Kerala,25.9,16.6,87,Moderate Rain,0.66
+2026-07-27,"Nilgiris, Tamil Nadu",Tamil Nadu,23.6,18.5,91,Moderate Rain,0.69
+2026-07-27,"Sundarbans, West Bengal",West Bengal,20.2,16.5,95,Moderate Rain,0.57
+2026-07-27,"Coorg, Karnataka",Karnataka,22.2,58.9,91,Heavy Rain,0.59
+2026-07-28,"Wayanad, Kerala",Kerala,20.7,30.1,83,Moderate Rain,0.71
+2026-07-28,"Nilgiris, Tamil Nadu",Tamil Nadu,22.7,32.7,82,Moderate Rain,0.71
+2026-07-28,"Sundarbans, West Bengal",West Bengal,20.9,32.4,92,Moderate Rain,0.73
+2026-07-28,"Coorg, Karnataka",Karnataka,23.1,51.6,92,Heavy Rain,0.58
+2026-07-29,"Wayanad, Kerala",Kerala,24.9,58.6,98,Heavy Rain,0.69
+2026-07-29,"Nilgiris, Tamil Nadu",Tamil Nadu,24.3,11.6,96,Moderate Rain,0.63
+2026-07-29,"Sundarbans, West Bengal",West Bengal,20.7,31.3,91,Moderate Rain,0.74
+2026-07-29,"Coorg, Karnataka",Karnataka,23.6,49.4,84,Heavy Rain,0.62
+2026-07-30,"Wayanad, Kerala",Kerala,20.6,59.5,91,Heavy Rain,0.55
+2026-07-30,"Nilgiris, Tamil Nadu",Tamil Nadu,23.8,28.5,88,Moderate Rain,0.61
+2026-07-30,"Sundarbans, West Bengal",West Bengal,21.7,13.2,92,Moderate Rain,0.7
+2026-07-30,"Coorg, Karnataka",Karnataka,21.6,48.6,87,Heavy Rain,0.6
+2026-07-31,"Wayanad, Kerala",Kerala,23.7,15.8,98,Moderate Rain,0.57
+2026-07-31,"Nilgiris, Tamil Nadu",Tamil Nadu,23.3,22.6,90,Moderate Rain,0.58
+2026-07-31,"Sundarbans, West Bengal",West Bengal,21.7,27.0,89,Moderate Rain,0.58
+2026-07-31,"Coorg, Karnataka",Karnataka,25.4,30.6,96,Moderate Rain,0.56
+2026-08-01,"Wayanad, Kerala",Kerala,25.4,16.4,83,Moderate Rain,0.57
+2026-08-01,"Nilgiris, Tamil Nadu",Tamil Nadu,22.6,9.5,87,Moderate Rain,0.69
+2026-08-01,"Sundarbans, West Bengal",West Bengal,23.8,32.1,96,Moderate Rain,0.67
+2026-08-01,"Coorg, Karnataka",Karnataka,24.9,30.6,84,Moderate Rain,0.74
+2026-08-02,"Wayanad, Kerala",Kerala,22.8,52.8,86,Heavy Rain,0.57
+2026-08-02,"Nilgiris, Tamil Nadu",Tamil Nadu,24.2,29.7,85,Moderate Rain,0.64
+2026-08-02,"Sundarbans, West Bengal",West Bengal,24.3,26.5,96,Moderate Rain,0.64
+2026-08-02,"Coorg, Karnataka",Karnataka,20.9,62.4,90,Heavy Rain,0.73
+2026-08-03,"Wayanad, Kerala",Kerala,24.2,34.6,92,Moderate Rain,0.71
+2026-08-03,"Nilgiris, Tamil Nadu",Tamil Nadu,22.7,31.8,82,Moderate Rain,0.56
+2026-08-03,"Sundarbans, West Bengal",West Bengal,22.9,11.0,87,Moderate Rain,0.61
+2026-08-03,"Coorg, Karnataka",Karnataka,23.4,32.4,98,Moderate Rain,0.57
+2026-08-04,"Wayanad, Kerala",Kerala,24.8,55.9,92,Heavy Rain,0.66
+2026-08-04,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,9.9,96,Moderate Rain,0.63
+2026-08-04,"Sundarbans, West Bengal",West Bengal,23.7,19.2,87,Moderate Rain,0.74
+2026-08-04,"Coorg, Karnataka",Karnataka,22.0,34.2,95,Moderate Rain,0.71
+2026-08-05,"Wayanad, Kerala",Kerala,24.7,36.8,89,Heavy Rain,0.58
+2026-08-05,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,26.1,97,Moderate Rain,0.57
+2026-08-05,"Sundarbans, West Bengal",West Bengal,22.0,24.1,85,Moderate Rain,0.71
+2026-08-05,"Coorg, Karnataka",Karnataka,25.7,23.8,84,Moderate Rain,0.67
+2026-08-06,"Wayanad, Kerala",Kerala,23.6,49.3,94,Heavy Rain,0.62
+2026-08-06,"Nilgiris, Tamil Nadu",Tamil Nadu,20.4,25.4,88,Moderate Rain,0.71
+2026-08-06,"Sundarbans, West Bengal",West Bengal,25.4,32.0,82,Moderate Rain,0.7
+2026-08-06,"Coorg, Karnataka",Karnataka,22.7,48.0,91,Heavy Rain,0.63
+2026-08-07,"Wayanad, Kerala",Kerala,21.2,43.9,92,Heavy Rain,0.61
+2026-08-07,"Nilgiris, Tamil Nadu",Tamil Nadu,24.1,29.4,95,Moderate Rain,0.69
+2026-08-07,"Sundarbans, West Bengal",West Bengal,25.9,32.7,82,Moderate Rain,0.67
+2026-08-07,"Coorg, Karnataka",Karnataka,25.1,40.5,91,Heavy Rain,0.56
+2026-08-08,"Wayanad, Kerala",Kerala,25.8,60.1,82,Heavy Rain,0.69
+2026-08-08,"Nilgiris, Tamil Nadu",Tamil Nadu,22.2,30.2,91,Moderate Rain,0.72
+2026-08-08,"Sundarbans, West Bengal",West Bengal,24.2,14.4,94,Moderate Rain,0.68
+2026-08-08,"Coorg, Karnataka",Karnataka,22.4,50.6,95,Heavy Rain,0.66
+2026-08-09,"Wayanad, Kerala",Kerala,22.8,48.1,88,Heavy Rain,0.66
+2026-08-09,"Nilgiris, Tamil Nadu",Tamil Nadu,22.2,30.8,95,Moderate Rain,0.58
+2026-08-09,"Sundarbans, West Bengal",West Bengal,24.0,34.9,86,Moderate Rain,0.55
+2026-08-09,"Coorg, Karnataka",Karnataka,20.9,47.4,97,Heavy Rain,0.68
+2026-08-10,"Wayanad, Kerala",Kerala,20.8,63.7,86,Heavy Rain,0.68
+2026-08-10,"Nilgiris, Tamil Nadu",Tamil Nadu,22.7,19.2,95,Moderate Rain,0.67
+2026-08-10,"Sundarbans, West Bengal",West Bengal,22.5,20.3,96,Moderate Rain,0.63
+2026-08-10,"Coorg, Karnataka",Karnataka,22.5,26.3,82,Moderate Rain,0.67
+2026-08-11,"Wayanad, Kerala",Kerala,21.4,57.3,98,Heavy Rain,0.6
+2026-08-11,"Nilgiris, Tamil Nadu",Tamil Nadu,23.5,33.0,83,Moderate Rain,0.75
+2026-08-11,"Sundarbans, West Bengal",West Bengal,24.2,23.3,85,Moderate Rain,0.67
+2026-08-11,"Coorg, Karnataka",Karnataka,20.5,63.1,98,Heavy Rain,0.75
+2026-08-12,"Wayanad, Kerala",Kerala,24.7,64.2,96,Heavy Rain,0.65
+2026-08-12,"Nilgiris, Tamil Nadu",Tamil Nadu,23.7,22.1,89,Moderate Rain,0.64
+2026-08-12,"Sundarbans, West Bengal",West Bengal,25.8,28.0,84,Moderate Rain,0.69
+2026-08-12,"Coorg, Karnataka",Karnataka,23.5,42.0,83,Heavy Rain,0.73
+2026-08-13,"Wayanad, Kerala",Kerala,20.1,41.8,96,Heavy Rain,0.65
+2026-08-13,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,20.7,95,Moderate Rain,0.62
+2026-08-13,"Sundarbans, West Bengal",West Bengal,21.8,34.4,87,Moderate Rain,0.56
+2026-08-13,"Coorg, Karnataka",Karnataka,24.5,61.1,90,Heavy Rain,0.56
+2026-08-14,"Wayanad, Kerala",Kerala,21.0,38.7,83,Heavy Rain,0.68
+2026-08-14,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,15.9,82,Moderate Rain,0.61
+2026-08-14,"Sundarbans, West Bengal",West Bengal,23.0,10.2,90,Moderate Rain,0.6
+2026-08-14,"Coorg, Karnataka",Karnataka,21.7,45.8,90,Heavy Rain,0.55
+2026-08-15,"Wayanad, Kerala",Kerala,21.0,20.6,86,Moderate Rain,0.68
+2026-08-15,"Nilgiris, Tamil Nadu",Tamil Nadu,21.1,18.0,89,Moderate Rain,0.65
+2026-08-15,"Sundarbans, West Bengal",West Bengal,25.2,29.6,92,Moderate Rain,0.75
+2026-08-15,"Coorg, Karnataka",Karnataka,23.6,63.4,86,Heavy Rain,0.72
+2026-08-16,"Wayanad, Kerala",Kerala,22.5,52.6,94,Heavy Rain,0.6
+2026-08-16,"Nilgiris, Tamil Nadu",Tamil Nadu,23.8,19.9,88,Moderate Rain,0.67
+2026-08-16,"Sundarbans, West Bengal",West Bengal,20.3,30.7,90,Moderate Rain,0.7
+2026-08-16,"Coorg, Karnataka",Karnataka,21.0,20.8,94,Moderate Rain,0.65
+2026-08-17,"Wayanad, Kerala",Kerala,25.7,38.8,89,Heavy Rain,0.63
+2026-08-17,"Nilgiris, Tamil Nadu",Tamil Nadu,22.8,27.1,86,Moderate Rain,0.66
+2026-08-17,"Sundarbans, West Bengal",West Bengal,21.7,19.7,96,Moderate Rain,0.63
+2026-08-17,"Coorg, Karnataka",Karnataka,23.2,30.8,83,Moderate Rain,0.57
+2026-08-18,"Wayanad, Kerala",Kerala,22.1,41.6,95,Heavy Rain,0.67
+2026-08-18,"Nilgiris, Tamil Nadu",Tamil Nadu,21.6,25.6,90,Moderate Rain,0.6
+2026-08-18,"Sundarbans, West Bengal",West Bengal,23.9,10.7,94,Moderate Rain,0.64
+2026-08-18,"Coorg, Karnataka",Karnataka,21.5,48.8,88,Heavy Rain,0.65
+2026-08-19,"Wayanad, Kerala",Kerala,26.0,48.9,92,Heavy Rain,0.66
+2026-08-19,"Nilgiris, Tamil Nadu",Tamil Nadu,25.0,26.2,82,Moderate Rain,0.63
+2026-08-19,"Sundarbans, West Bengal",West Bengal,24.1,22.2,93,Moderate Rain,0.59
+2026-08-19,"Coorg, Karnataka",Karnataka,21.2,29.2,82,Moderate Rain,0.67
+2026-08-20,"Wayanad, Kerala",Kerala,23.6,17.8,88,Moderate Rain,0.74
+2026-08-20,"Nilgiris, Tamil Nadu",Tamil Nadu,24.2,25.2,85,Moderate Rain,0.57
+2026-08-20,"Sundarbans, West Bengal",West Bengal,22.3,24.3,87,Moderate Rain,0.73
+2026-08-20,"Coorg, Karnataka",Karnataka,21.5,49.8,96,Heavy Rain,0.68
+2026-08-21,"Wayanad, Kerala",Kerala,22.7,18.8,90,Moderate Rain,0.7
+2026-08-21,"Nilgiris, Tamil Nadu",Tamil Nadu,24.0,26.7,92,Moderate Rain,0.6
+2026-08-21,"Sundarbans, West Bengal",West Bengal,21.7,29.1,83,Moderate Rain,0.63
+2026-08-21,"Coorg, Karnataka",Karnataka,20.4,31.6,90,Moderate Rain,0.59
+2026-08-22,"Wayanad, Kerala",Kerala,25.9,18.5,88,Moderate Rain,0.67
+2026-08-22,"Nilgiris, Tamil Nadu",Tamil Nadu,23.0,12.8,86,Moderate Rain,0.66
+2026-08-22,"Sundarbans, West Bengal",West Bengal,23.7,19.6,85,Moderate Rain,0.73
+2026-08-22,"Coorg, Karnataka",Karnataka,20.6,50.8,84,Heavy Rain,0.56
+2026-08-23,"Wayanad, Kerala",Kerala,24.7,51.4,82,Heavy Rain,0.73
+2026-08-23,"Nilgiris, Tamil Nadu",Tamil Nadu,23.8,12.0,83,Moderate Rain,0.68
+2026-08-23,"Sundarbans, West Bengal",West Bengal,24.2,15.2,94,Moderate Rain,0.66
+2026-08-23,"Coorg, Karnataka",Karnataka,25.6,40.8,97,Heavy Rain,0.65
+2026-08-24,"Wayanad, Kerala",Kerala,24.4,35.2,84,Heavy Rain,0.66
+2026-08-24,"Nilgiris, Tamil Nadu",Tamil Nadu,25.7,8.1,97,Moderate Rain,0.57
+2026-08-24,"Sundarbans, West Bengal",West Bengal,25.9,22.5,92,Moderate Rain,0.69
+2026-08-24,"Coorg, Karnataka",Karnataka,23.8,35.0,84,Moderate Rain,0.62
+2026-08-25,"Wayanad, Kerala",Kerala,22.0,57.7,96,Heavy Rain,0.7
+2026-08-25,"Nilgiris, Tamil Nadu",Tamil Nadu,21.2,15.8,83,Moderate Rain,0.74
+2026-08-25,"Sundarbans, West Bengal",West Bengal,21.8,25.8,94,Moderate Rain,0.73
+2026-08-25,"Coorg, Karnataka",Karnataka,22.2,46.5,84,Heavy Rain,0.73
+2026-08-26,"Wayanad, Kerala",Kerala,21.1,36.9,83,Heavy Rain,0.59
+2026-08-26,"Nilgiris, Tamil Nadu",Tamil Nadu,23.6,27.4,97,Moderate Rain,0.63
+2026-08-26,"Sundarbans, West Bengal",West Bengal,23.9,29.4,97,Moderate Rain,0.66
+2026-08-26,"Coorg, Karnataka",Karnataka,22.7,56.7,82,Heavy Rain,0.56
+2026-08-27,"Wayanad, Kerala",Kerala,24.7,17.8,83,Moderate Rain,0.63
+2026-08-27,"Nilgiris, Tamil Nadu",Tamil Nadu,23.9,13.7,98,Moderate Rain,0.64
+2026-08-27,"Sundarbans, West Bengal",West Bengal,25.2,26.3,86,Moderate Rain,0.7
+2026-08-27,"Coorg, Karnataka",Karnataka,20.4,26.6,86,Moderate Rain,0.65
+2026-08-28,"Wayanad, Kerala",Kerala,25.4,16.0,83,Moderate Rain,0.6
+2026-08-28,"Nilgiris, Tamil Nadu",Tamil Nadu,20.1,25.5,83,Moderate Rain,0.73
+2026-08-28,"Sundarbans, West Bengal",West Bengal,20.6,30.2,87,Moderate Rain,0.72
+2026-08-28,"Coorg, Karnataka",Karnataka,24.9,18.2,85,Moderate Rain,0.65
+2026-08-29,"Wayanad, Kerala",Kerala,21.3,55.0,88,Heavy Rain,0.64
+2026-08-29,"Nilgiris, Tamil Nadu",Tamil Nadu,25.9,29.9,94,Moderate Rain,0.61
+2026-08-29,"Sundarbans, West Bengal",West Bengal,23.5,34.3,86,Moderate Rain,0.61
+2026-08-29,"Coorg, Karnataka",Karnataka,21.3,63.2,83,Heavy Rain,0.67
+2026-08-30,"Wayanad, Kerala",Kerala,20.7,31.8,86,Moderate Rain,0.7
+2026-08-30,"Nilgiris, Tamil Nadu",Tamil Nadu,22.2,12.5,87,Moderate Rain,0.64
+2026-08-30,"Sundarbans, West Bengal",West Bengal,20.2,33.0,85,Moderate Rain,0.71
+2026-08-30,"Coorg, Karnataka",Karnataka,22.3,46.6,87,Heavy Rain,0.55
+2026-08-31,"Wayanad, Kerala",Kerala,20.0,39.3,87,Heavy Rain,0.74
+2026-08-31,"Nilgiris, Tamil Nadu",Tamil Nadu,23.6,27.1,91,Moderate Rain,0.63
+2026-08-31,"Sundarbans, West Bengal",West Bengal,24.6,29.8,86,Moderate Rain,0.59
+2026-08-31,"Coorg, Karnataka",Karnataka,23.1,47.0,95,Heavy Rain,0.6
+2026-09-01,"Wayanad, Kerala",Kerala,25.2,4.8,75,Partly Cloudy,0.89
+2026-09-01,"Nilgiris, Tamil Nadu",Tamil Nadu,21.5,11.8,79,Light Showers,0.84
+2026-09-01,"Sundarbans, West Bengal",West Bengal,22.4,2.1,73,Partly Cloudy,0.92
+2026-09-01,"Coorg, Karnataka",Karnataka,24.7,17.6,77,Light Showers,0.86
+2026-09-02,"Wayanad, Kerala",Kerala,22.2,12.0,71,Light Showers,0.82
+2026-09-02,"Nilgiris, Tamil Nadu",Tamil Nadu,25.1,14.7,85,Light Showers,0.86
+2026-09-02,"Sundarbans, West Bengal",West Bengal,26.5,4.6,71,Partly Cloudy,0.88
+2026-09-02,"Coorg, Karnataka",Karnataka,23.6,6.6,80,Partly Cloudy,0.87
+2026-09-03,"Wayanad, Kerala",Kerala,23.7,16.2,73,Light Showers,0.89
+2026-09-03,"Nilgiris, Tamil Nadu",Tamil Nadu,22.1,16.8,70,Light Showers,0.86
+2026-09-03,"Sundarbans, West Bengal",West Bengal,26.4,3.9,84,Partly Cloudy,0.87
+2026-09-03,"Coorg, Karnataka",Karnataka,22.2,7.2,80,Partly Cloudy,0.83
+2026-09-04,"Wayanad, Kerala",Kerala,22.4,3.8,77,Partly Cloudy,0.89
+2026-09-04,"Nilgiris, Tamil Nadu",Tamil Nadu,23.3,15.9,77,Light Showers,0.81
+2026-09-04,"Sundarbans, West Bengal",West Bengal,21.3,11.4,83,Light Showers,0.82
+2026-09-04,"Coorg, Karnataka",Karnataka,23.7,16.8,82,Light Showers,0.84
+2026-09-05,"Wayanad, Kerala",Kerala,22.2,9.3,81,Light Showers,0.92
+2026-09-05,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,5.2,71,Partly Cloudy,0.83
+2026-09-05,"Sundarbans, West Bengal",West Bengal,23.8,3.8,83,Partly Cloudy,0.82
+2026-09-05,"Coorg, Karnataka",Karnataka,26.3,7.5,75,Partly Cloudy,0.89
+2026-09-06,"Wayanad, Kerala",Kerala,24.7,12.2,75,Light Showers,0.87
+2026-09-06,"Nilgiris, Tamil Nadu",Tamil Nadu,22.4,10.8,83,Light Showers,0.9
+2026-09-06,"Sundarbans, West Bengal",West Bengal,27.0,9.8,85,Light Showers,0.9
+2026-09-06,"Coorg, Karnataka",Karnataka,25.4,6.5,77,Partly Cloudy,0.83
+2026-09-07,"Wayanad, Kerala",Kerala,22.3,8.9,74,Light Showers,0.91
+2026-09-07,"Nilgiris, Tamil Nadu",Tamil Nadu,23.5,16.4,71,Light Showers,0.8
+2026-09-07,"Sundarbans, West Bengal",West Bengal,25.6,9.5,71,Light Showers,0.85
+2026-09-07,"Coorg, Karnataka",Karnataka,25.9,8.3,73,Light Showers,0.85
+2026-09-08,"Wayanad, Kerala",Kerala,24.4,5.8,70,Partly Cloudy,0.88
+2026-09-08,"Nilgiris, Tamil Nadu",Tamil Nadu,22.3,8.5,81,Light Showers,0.84
+2026-09-08,"Sundarbans, West Bengal",West Bengal,21.5,12.4,85,Light Showers,0.88
+2026-09-08,"Coorg, Karnataka",Karnataka,23.8,4.6,70,Partly Cloudy,0.92
+2026-09-09,"Wayanad, Kerala",Kerala,21.8,9.4,82,Light Showers,0.82
+2026-09-09,"Nilgiris, Tamil Nadu",Tamil Nadu,24.8,15.9,70,Light Showers,0.9
+2026-09-09,"Sundarbans, West Bengal",West Bengal,26.4,3.1,80,Partly Cloudy,0.86
+2026-09-09,"Coorg, Karnataka",Karnataka,25.5,6.7,76,Partly Cloudy,0.89
+2026-09-10,"Wayanad, Kerala",Kerala,26.3,3.3,71,Partly Cloudy,0.86
+2026-09-10,"Nilgiris, Tamil Nadu",Tamil Nadu,23.2,16.6,71,Light Showers,0.81
+2026-09-10,"Sundarbans, West Bengal",West Bengal,24.7,7.8,81,Partly Cloudy,0.84
+2026-09-10,"Coorg, Karnataka",Karnataka,25.2,12.4,76,Light Showers,0.82
+2026-09-11,"Wayanad, Kerala",Kerala,24.2,7.4,85,Partly Cloudy,0.89
+2026-09-11,"Nilgiris, Tamil Nadu",Tamil Nadu,26.2,14.0,76,Light Showers,0.89
+2026-09-11,"Sundarbans, West Bengal",West Bengal,22.9,14.2,78,Light Showers,0.86
+2026-09-11,"Coorg, Karnataka",Karnataka,21.3,8.8,81,Light Showers,0.84
+2026-09-12,"Wayanad, Kerala",Kerala,24.2,9.8,73,Light Showers,0.86
+2026-09-12,"Nilgiris, Tamil Nadu",Tamil Nadu,26.0,10.5,79,Light Showers,0.85
+2026-09-12,"Sundarbans, West Bengal",West Bengal,25.0,7.9,72,Partly Cloudy,0.82
+2026-09-12,"Coorg, Karnataka",Karnataka,21.5,16.1,82,Light Showers,0.91
+2026-09-13,"Wayanad, Kerala",Kerala,26.7,6.6,73,Partly Cloudy,0.82
+2026-09-13,"Nilgiris, Tamil Nadu",Tamil Nadu,21.9,3.8,74,Partly Cloudy,0.9
+2026-09-13,"Sundarbans, West Bengal",West Bengal,24.8,10.3,79,Light Showers,0.85
+2026-09-13,"Coorg, Karnataka",Karnataka,26.6,12.9,85,Light Showers,0.84
+2026-09-14,"Wayanad, Kerala",Kerala,24.9,9.1,79,Light Showers,0.82
+2026-09-14,"Nilgiris, Tamil Nadu",Tamil Nadu,25.8,2.4,80,Partly Cloudy,0.85
+2026-09-14,"Sundarbans, West Bengal",West Bengal,24.9,7.5,80,Partly Cloudy,0.86
+2026-09-14,"Coorg, Karnataka",Karnataka,24.2,12.7,84,Light Showers,0.85
+2026-09-15,"Wayanad, Kerala",Kerala,26.4,11.1,79,Light Showers,0.82
+2026-09-15,"Nilgiris, Tamil Nadu",Tamil Nadu,23.9,6.2,79,Partly Cloudy,0.89
+2026-09-15,"Sundarbans, West Bengal",West Bengal,23.1,2.8,84,Partly Cloudy,0.91
+2026-09-15,"Coorg, Karnataka",Karnataka,22.0,11.9,79,Light Showers,0.82
+2026-09-16,"Wayanad, Kerala",Kerala,25.2,4.8,74,Partly Cloudy,0.82
+2026-09-16,"Nilgiris, Tamil Nadu",Tamil Nadu,27.0,3.9,74,Partly Cloudy,0.85
+2026-09-16,"Sundarbans, West Bengal",West Bengal,22.2,7.9,71,Partly Cloudy,0.88
+2026-09-16,"Coorg, Karnataka",Karnataka,21.9,17.6,84,Light Showers,0.86
+2026-09-17,"Wayanad, Kerala",Kerala,22.8,4.6,70,Partly Cloudy,0.85
+2026-09-17,"Nilgiris, Tamil Nadu",Tamil Nadu,21.9,10.0,84,Light Showers,0.91
+2026-09-17,"Sundarbans, West Bengal",West Bengal,26.8,4.5,80,Partly Cloudy,0.88
+2026-09-17,"Coorg, Karnataka",Karnataka,26.4,6.7,74,Partly Cloudy,0.9
+2026-09-18,"Wayanad, Kerala",Kerala,26.5,13.7,80,Light Showers,0.88
+2026-09-18,"Nilgiris, Tamil Nadu",Tamil Nadu,26.4,13.7,74,Light Showers,0.88
+2026-09-18,"Sundarbans, West Bengal",West Bengal,21.1,3.9,77,Partly Cloudy,0.85
+2026-09-18,"Coorg, Karnataka",Karnataka,21.3,3.5,76,Partly Cloudy,0.87
+2026-09-19,"Wayanad, Kerala",Kerala,26.6,5.6,78,Partly Cloudy,0.82
+2026-09-19,"Nilgiris, Tamil Nadu",Tamil Nadu,26.1,3.3,72,Partly Cloudy,0.92
+2026-09-19,"Sundarbans, West Bengal",West Bengal,23.9,8.3,71,Light Showers,0.91
+2026-09-19,"Coorg, Karnataka",Karnataka,21.9,7.8,83,Partly Cloudy,0.84
+2026-09-20,"Wayanad, Kerala",Kerala,22.7,8.0,81,Partly Cloudy,0.84
+2026-09-20,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,9.1,76,Light Showers,0.89
+2026-09-20,"Sundarbans, West Bengal",West Bengal,27.0,9.1,84,Light Showers,0.83
+2026-09-20,"Coorg, Karnataka",Karnataka,26.8,14.9,83,Light Showers,0.89
+2026-09-21,"Wayanad, Kerala",Kerala,26.0,8.6,72,Light Showers,0.82
+2026-09-21,"Nilgiris, Tamil Nadu",Tamil Nadu,26.9,6.9,80,Partly Cloudy,0.81
+2026-09-21,"Sundarbans, West Bengal",West Bengal,25.5,17.4,72,Light Showers,0.8
+2026-09-21,"Coorg, Karnataka",Karnataka,22.6,12.2,75,Light Showers,0.87
+2026-09-22,"Wayanad, Kerala",Kerala,25.5,13.4,74,Light Showers,0.82
+2026-09-22,"Nilgiris, Tamil Nadu",Tamil Nadu,22.7,15.3,85,Light Showers,0.81
+2026-09-22,"Sundarbans, West Bengal",West Bengal,26.0,15.2,79,Light Showers,0.86
+2026-09-22,"Coorg, Karnataka",Karnataka,22.3,13.8,70,Light Showers,0.82
+2026-09-23,"Wayanad, Kerala",Kerala,24.8,6.8,85,Partly Cloudy,0.81
+2026-09-23,"Nilgiris, Tamil Nadu",Tamil Nadu,22.7,12.7,75,Light Showers,0.86
+2026-09-23,"Sundarbans, West Bengal",West Bengal,22.5,13.0,73,Light Showers,0.89
+2026-09-23,"Coorg, Karnataka",Karnataka,26.8,9.9,81,Light Showers,0.87
+2026-09-24,"Wayanad, Kerala",Kerala,26.2,11.0,85,Light Showers,0.92
+2026-09-24,"Nilgiris, Tamil Nadu",Tamil Nadu,23.2,15.1,70,Light Showers,0.9
+2026-09-24,"Sundarbans, West Bengal",West Bengal,21.4,4.6,80,Partly Cloudy,0.86
+2026-09-24,"Coorg, Karnataka",Karnataka,23.1,13.1,71,Light Showers,0.83
+2026-09-25,"Wayanad, Kerala",Kerala,26.5,8.7,81,Light Showers,0.81
+2026-09-25,"Nilgiris, Tamil Nadu",Tamil Nadu,24.8,6.7,72,Partly Cloudy,0.86
+2026-09-25,"Sundarbans, West Bengal",West Bengal,22.1,14.3,73,Light Showers,0.87
+2026-09-25,"Coorg, Karnataka",Karnataka,22.9,4.7,80,Partly Cloudy,0.9
+2026-09-26,"Wayanad, Kerala",Kerala,22.8,13.0,81,Light Showers,0.81
+2026-09-26,"Nilgiris, Tamil Nadu",Tamil Nadu,25.9,11.3,70,Light Showers,0.82
+2026-09-26,"Sundarbans, West Bengal",West Bengal,25.7,6.5,83,Partly Cloudy,0.84
+2026-09-26,"Coorg, Karnataka",Karnataka,21.6,16.6,74,Light Showers,0.86
+2026-09-27,"Wayanad, Kerala",Kerala,25.8,15.3,73,Light Showers,0.85
+2026-09-27,"Nilgiris, Tamil Nadu",Tamil Nadu,21.7,16.7,74,Light Showers,0.91
+2026-09-27,"Sundarbans, West Bengal",West Bengal,22.9,9.7,81,Light Showers,0.82
+2026-09-27,"Coorg, Karnataka",Karnataka,26.9,9.1,80,Light Showers,0.82
+2026-09-28,"Wayanad, Kerala",Kerala,25.5,6.9,73,Partly Cloudy,0.83
+2026-09-28,"Nilgiris, Tamil Nadu",Tamil Nadu,21.9,15.7,77,Light Showers,0.84
+2026-09-28,"Sundarbans, West Bengal",West Bengal,26.9,5.4,83,Partly Cloudy,0.88
+2026-09-28,"Coorg, Karnataka",Karnataka,21.5,14.5,85,Light Showers,0.89
+2026-09-29,"Wayanad, Kerala",Kerala,21.6,2.7,71,Partly Cloudy,0.86
+2026-09-29,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,16.5,79,Light Showers,0.88
+2026-09-29,"Sundarbans, West Bengal",West Bengal,25.7,14.1,76,Light Showers,0.87
+2026-09-29,"Coorg, Karnataka",Karnataka,25.0,5.2,70,Partly Cloudy,0.81
+2026-09-30,"Wayanad, Kerala",Kerala,26.7,15.5,81,Light Showers,0.84
+2026-09-30,"Nilgiris, Tamil Nadu",Tamil Nadu,25.7,15.7,77,Light Showers,0.86
+2026-09-30,"Sundarbans, West Bengal",West Bengal,25.9,3.1,70,Partly Cloudy,0.86
+2026-09-30,"Coorg, Karnataka",Karnataka,26.8,13.5,75,Light Showers,0.91
+2026-10-01,"Wayanad, Kerala",Kerala,26.8,10.6,73,Light Showers,0.91
+2026-10-01,"Nilgiris, Tamil Nadu",Tamil Nadu,26.1,16.7,85,Light Showers,0.84
+2026-10-01,"Sundarbans, West Bengal",West Bengal,23.6,11.4,73,Light Showers,0.82
+2026-10-01,"Coorg, Karnataka",Karnataka,23.3,7.7,76,Partly Cloudy,0.86
+2026-10-02,"Wayanad, Kerala",Kerala,25.6,8.5,80,Light Showers,0.81
+2026-10-02,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,3.8,81,Partly Cloudy,0.88
+2026-10-02,"Sundarbans, West Bengal",West Bengal,21.2,10.9,80,Light Showers,0.86
+2026-10-02,"Coorg, Karnataka",Karnataka,23.7,8.2,79,Light Showers,0.88
+2026-10-03,"Wayanad, Kerala",Kerala,22.4,15.5,83,Light Showers,0.83
+2026-10-03,"Nilgiris, Tamil Nadu",Tamil Nadu,22.1,15.7,72,Light Showers,0.91
+2026-10-03,"Sundarbans, West Bengal",West Bengal,26.6,14.8,81,Light Showers,0.82
+2026-10-03,"Coorg, Karnataka",Karnataka,23.9,18.0,73,Light Showers,0.85
+2026-10-04,"Wayanad, Kerala",Kerala,25.1,10.4,73,Light Showers,0.82
+2026-10-04,"Nilgiris, Tamil Nadu",Tamil Nadu,24.5,8.4,73,Light Showers,0.89
+2026-10-04,"Sundarbans, West Bengal",West Bengal,22.0,16.3,81,Light Showers,0.92
+2026-10-04,"Coorg, Karnataka",Karnataka,24.6,7.4,82,Partly Cloudy,0.81
+2026-10-05,"Wayanad, Kerala",Kerala,25.4,15.4,78,Light Showers,0.89
+2026-10-05,"Nilgiris, Tamil Nadu",Tamil Nadu,24.6,14.3,82,Light Showers,0.84
+2026-10-05,"Sundarbans, West Bengal",West Bengal,26.7,12.7,85,Light Showers,0.86
+2026-10-05,"Coorg, Karnataka",Karnataka,23.7,4.4,73,Partly Cloudy,0.83
+2026-10-06,"Wayanad, Kerala",Kerala,24.8,10.0,74,Light Showers,0.8
+2026-10-06,"Nilgiris, Tamil Nadu",Tamil Nadu,26.0,13.8,85,Light Showers,0.88
+2026-10-06,"Sundarbans, West Bengal",West Bengal,23.3,17.6,80,Light Showers,0.82
+2026-10-06,"Coorg, Karnataka",Karnataka,21.6,12.0,72,Light Showers,0.88
+2026-10-07,"Wayanad, Kerala",Kerala,24.0,10.3,84,Light Showers,0.82
+2026-10-07,"Nilgiris, Tamil Nadu",Tamil Nadu,23.9,12.6,78,Light Showers,0.87
+2026-10-07,"Sundarbans, West Bengal",West Bengal,24.2,15.0,70,Light Showers,0.91
+2026-10-07,"Coorg, Karnataka",Karnataka,23.6,2.5,73,Partly Cloudy,0.85
+2026-10-08,"Wayanad, Kerala",Kerala,23.3,7.0,84,Partly Cloudy,0.8
+2026-10-08,"Nilgiris, Tamil Nadu",Tamil Nadu,25.0,4.8,79,Partly Cloudy,0.91
+2026-10-08,"Sundarbans, West Bengal",West Bengal,23.6,4.6,79,Partly Cloudy,0.89
+2026-10-08,"Coorg, Karnataka",Karnataka,21.7,9.8,85,Light Showers,0.88
+2026-10-09,"Wayanad, Kerala",Kerala,24.4,13.0,85,Light Showers,0.87
+2026-10-09,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,4.5,78,Partly Cloudy,0.86
+2026-10-09,"Sundarbans, West Bengal",West Bengal,24.7,17.5,81,Light Showers,0.89
+2026-10-09,"Coorg, Karnataka",Karnataka,21.4,6.6,71,Partly Cloudy,0.82
+2026-10-10,"Wayanad, Kerala",Kerala,25.9,7.9,70,Partly Cloudy,0.89
+2026-10-10,"Nilgiris, Tamil Nadu",Tamil Nadu,23.3,12.0,83,Light Showers,0.84
+2026-10-10,"Sundarbans, West Bengal",West Bengal,23.1,7.7,77,Partly Cloudy,0.83
+2026-10-10,"Coorg, Karnataka",Karnataka,24.6,12.4,72,Light Showers,0.9
+2026-10-11,"Wayanad, Kerala",Kerala,22.0,3.8,80,Partly Cloudy,0.8
+2026-10-11,"Nilgiris, Tamil Nadu",Tamil Nadu,23.5,12.5,83,Light Showers,0.83
+2026-10-11,"Sundarbans, West Bengal",West Bengal,24.5,13.1,80,Light Showers,0.85
+2026-10-11,"Coorg, Karnataka",Karnataka,24.4,8.2,85,Light Showers,0.81
+2026-10-12,"Wayanad, Kerala",Kerala,23.0,12.8,80,Light Showers,0.82
+2026-10-12,"Nilgiris, Tamil Nadu",Tamil Nadu,26.8,6.8,76,Partly Cloudy,0.86
+2026-10-12,"Sundarbans, West Bengal",West Bengal,25.7,15.6,76,Light Showers,0.83
+2026-10-12,"Coorg, Karnataka",Karnataka,27.0,2.8,82,Partly Cloudy,0.9
+2026-10-13,"Wayanad, Kerala",Kerala,26.7,12.0,73,Light Showers,0.87
+2026-10-13,"Nilgiris, Tamil Nadu",Tamil Nadu,24.4,6.4,85,Partly Cloudy,0.85
+2026-10-13,"Sundarbans, West Bengal",West Bengal,21.5,7.6,79,Partly Cloudy,0.86
+2026-10-13,"Coorg, Karnataka",Karnataka,25.0,6.8,80,Partly Cloudy,0.82
+2026-10-14,"Wayanad, Kerala",Kerala,24.7,8.4,84,Light Showers,0.88
+2026-10-14,"Nilgiris, Tamil Nadu",Tamil Nadu,26.3,10.8,75,Light Showers,0.87
+2026-10-14,"Sundarbans, West Bengal",West Bengal,26.8,5.4,84,Partly Cloudy,0.83
+2026-10-14,"Coorg, Karnataka",Karnataka,25.9,12.2,83,Light Showers,0.91
+2026-10-15,"Wayanad, Kerala",Kerala,21.4,13.6,76,Light Showers,0.84
+2026-10-15,"Nilgiris, Tamil Nadu",Tamil Nadu,21.9,4.4,79,Partly Cloudy,0.9
+2026-10-15,"Sundarbans, West Bengal",West Bengal,26.2,8.6,72,Light Showers,0.88
+2026-10-15,"Coorg, Karnataka",Karnataka,22.6,15.5,79,Light Showers,0.88
+2026-10-16,"Wayanad, Kerala",Kerala,24.6,6.1,82,Partly Cloudy,0.83
+2026-10-16,"Nilgiris, Tamil Nadu",Tamil Nadu,21.2,4.4,79,Partly Cloudy,0.86
+2026-10-16,"Sundarbans, West Bengal",West Bengal,23.6,11.0,71,Light Showers,0.82
+2026-10-16,"Coorg, Karnataka",Karnataka,21.2,6.4,78,Partly Cloudy,0.88
+2026-10-17,"Wayanad, Kerala",Kerala,26.1,4.8,85,Partly Cloudy,0.89
+2026-10-17,"Nilgiris, Tamil Nadu",Tamil Nadu,26.4,2.9,80,Partly Cloudy,0.87
+2026-10-17,"Sundarbans, West Bengal",West Bengal,26.4,15.9,83,Light Showers,0.91
+2026-10-17,"Coorg, Karnataka",Karnataka,26.3,12.7,82,Light Showers,0.91
+2026-10-18,"Wayanad, Kerala",Kerala,21.8,13.6,73,Light Showers,0.87
+2026-10-18,"Nilgiris, Tamil Nadu",Tamil Nadu,21.7,10.0,78,Light Showers,0.86
+2026-10-18,"Sundarbans, West Bengal",West Bengal,24.6,3.4,80,Partly Cloudy,0.84
+2026-10-18,"Coorg, Karnataka",Karnataka,23.3,11.3,77,Light Showers,0.91
+2026-10-19,"Wayanad, Kerala",Kerala,21.6,5.5,76,Partly Cloudy,0.92
+2026-10-19,"Nilgiris, Tamil Nadu",Tamil Nadu,22.5,9.0,71,Light Showers,0.86
+2026-10-19,"Sundarbans, West Bengal",West Bengal,26.7,8.0,80,Partly Cloudy,0.87
+2026-10-19,"Coorg, Karnataka",Karnataka,22.5,9.6,78,Light Showers,0.91
+2026-10-20,"Wayanad, Kerala",Kerala,23.2,17.0,81,Light Showers,0.9
+2026-10-20,"Nilgiris, Tamil Nadu",Tamil Nadu,26.8,2.3,71,Partly Cloudy,0.9
+2026-10-20,"Sundarbans, West Bengal",West Bengal,26.6,12.6,77,Light Showers,0.83
+2026-10-20,"Coorg, Karnataka",Karnataka,24.8,8.2,81,Light Showers,0.91
+2026-10-21,"Wayanad, Kerala",Kerala,24.2,13.0,77,Light Showers,0.9
+2026-10-21,"Nilgiris, Tamil Nadu",Tamil Nadu,26.5,8.2,82,Light Showers,0.91
+2026-10-21,"Sundarbans, West Bengal",West Bengal,22.8,16.7,77,Light Showers,0.84
+2026-10-21,"Coorg, Karnataka",Karnataka,22.0,15.8,84,Light Showers,0.88
+2026-10-22,"Wayanad, Kerala",Kerala,25.6,16.1,83,Light Showers,0.89
+2026-10-22,"Nilgiris, Tamil Nadu",Tamil Nadu,21.5,6.4,85,Partly Cloudy,0.86
+2026-10-22,"Sundarbans, West Bengal",West Bengal,26.0,8.6,83,Light Showers,0.91
+2026-10-22,"Coorg, Karnataka",Karnataka,25.9,15.1,78,Light Showers,0.86
+2026-10-23,"Wayanad, Kerala",Kerala,24.6,7.6,80,Partly Cloudy,0.85
+2026-10-23,"Nilgiris, Tamil Nadu",Tamil Nadu,21.3,2.4,75,Partly Cloudy,0.88
+2026-10-23,"Sundarbans, West Bengal",West Bengal,21.8,14.7,82,Light Showers,0.82
+2026-10-23,"Coorg, Karnataka",Karnataka,24.5,6.9,73,Partly Cloudy,0.82
+2026-10-24,"Wayanad, Kerala",Kerala,26.8,10.3,74,Light Showers,0.9
+2026-10-24,"Nilgiris, Tamil Nadu",Tamil Nadu,25.8,13.0,80,Light Showers,0.85
+2026-10-24,"Sundarbans, West Bengal",West Bengal,21.8,16.0,75,Light Showers,0.88
+2026-10-24,"Coorg, Karnataka",Karnataka,25.8,15.2,76,Light Showers,0.81
+2026-10-25,"Wayanad, Kerala",Kerala,23.4,7.9,82,Partly Cloudy,0.91
+2026-10-25,"Nilgiris, Tamil Nadu",Tamil Nadu,22.3,16.1,70,Light Showers,0.91
+2026-10-25,"Sundarbans, West Bengal",West Bengal,24.8,12.4,72,Light Showers,0.92
+2026-10-25,"Coorg, Karnataka",Karnataka,25.2,5.2,75,Partly Cloudy,0.81
+2026-10-26,"Wayanad, Kerala",Kerala,24.6,11.9,74,Light Showers,0.81
+2026-10-26,"Nilgiris, Tamil Nadu",Tamil Nadu,26.7,7.9,73,Partly Cloudy,0.8
+2026-10-26,"Sundarbans, West Bengal",West Bengal,25.6,10.4,84,Light Showers,0.9
+2026-10-26,"Coorg, Karnataka",Karnataka,22.3,9.9,76,Light Showers,0.82
+2026-10-27,"Wayanad, Kerala",Kerala,25.7,15.8,79,Light Showers,0.89
+2026-10-27,"Nilgiris, Tamil Nadu",Tamil Nadu,23.6,8.1,76,Light Showers,0.87
+2026-10-27,"Sundarbans, West Bengal",West Bengal,22.7,17.9,76,Light Showers,0.85
+2026-10-27,"Coorg, Karnataka",Karnataka,21.9,8.5,79,Light Showers,0.92
+2026-10-28,"Wayanad, Kerala",Kerala,23.7,5.8,77,Partly Cloudy,0.84
+2026-10-28,"Nilgiris, Tamil Nadu",Tamil Nadu,23.7,12.9,70,Light Showers,0.86
+2026-10-28,"Sundarbans, West Bengal",West Bengal,26.8,15.9,82,Light Showers,0.88
+2026-10-28,"Coorg, Karnataka",Karnataka,25.3,13.4,78,Light Showers,0.81
+2026-10-29,"Wayanad, Kerala",Kerala,21.3,10.9,77,Light Showers,0.86
+2026-10-29,"Nilgiris, Tamil Nadu",Tamil Nadu,24.6,7.7,71,Partly Cloudy,0.8
+2026-10-29,"Sundarbans, West Bengal",West Bengal,23.3,10.1,82,Light Showers,0.88
+2026-10-29,"Coorg, Karnataka",Karnataka,26.4,4.1,71,Partly Cloudy,0.87
+2026-10-30,"Wayanad, Kerala",Kerala,24.0,6.2,80,Partly Cloudy,0.91
+2026-10-30,"Nilgiris, Tamil Nadu",Tamil Nadu,22.9,4.1,83,Partly Cloudy,0.82
+2026-10-30,"Sundarbans, West Bengal",West Bengal,21.3,3.9,74,Partly Cloudy,0.86
+2026-10-30,"Coorg, Karnataka",Karnataka,22.7,17.6,81,Light Showers,0.91
+2026-10-31,"Wayanad, Kerala",Kerala,26.3,6.5,78,Partly Cloudy,0.86
+2026-10-31,"Nilgiris, Tamil Nadu",Tamil Nadu,22.0,9.0,85,Light Showers,0.89
+2026-10-31,"Sundarbans, West Bengal",West Bengal,26.1,4.4,84,Partly Cloudy,0.81
+2026-10-31,"Coorg, Karnataka",Karnataka,22.4,4.4,71,Partly Cloudy,0.86
+2026-11-01,"Wayanad, Kerala",Kerala,21.7,0.7,58,Clear & Sunny,0.99
+2026-11-01,"Nilgiris, Tamil Nadu",Tamil Nadu,16.9,0.2,72,Clear & Sunny,0.95
+2026-11-01,"Sundarbans, West Bengal",West Bengal,24.9,3.4,58,Clear & Sunny,0.92
+2026-11-01,"Coorg, Karnataka",Karnataka,24.7,1.1,71,Clear & Sunny,0.96
+2026-11-02,"Wayanad, Kerala",Kerala,19.7,2.7,55,Clear & Sunny,0.96
+2026-11-02,"Nilgiris, Tamil Nadu",Tamil Nadu,14.6,1.7,70,Clear & Sunny,0.99
+2026-11-02,"Sundarbans, West Bengal",West Bengal,23.5,0.1,58,Clear & Sunny,0.96
+2026-11-02,"Coorg, Karnataka",Karnataka,24.7,3.8,59,Pleasant Breeze,0.95
+2026-11-03,"Wayanad, Kerala",Kerala,21.8,2.8,75,Clear & Sunny,0.96
+2026-11-03,"Nilgiris, Tamil Nadu",Tamil Nadu,21.8,0.0,75,Clear & Sunny,0.95
+2026-11-03,"Sundarbans, West Bengal",West Bengal,26.0,3.8,73,Pleasant Breeze,0.99
+2026-11-03,"Coorg, Karnataka",Karnataka,20.3,3.2,56,Clear & Sunny,0.95
+2026-11-04,"Wayanad, Kerala",Kerala,18.7,2.4,63,Pleasant Breeze,1.0
+2026-11-04,"Nilgiris, Tamil Nadu",Tamil Nadu,14.7,3.5,61,Pleasant Breeze,0.98
+2026-11-04,"Sundarbans, West Bengal",West Bengal,24.0,1.1,75,Pleasant Breeze,0.93
+2026-11-04,"Coorg, Karnataka",Karnataka,23.9,3.2,64,Clear & Sunny,0.96
+2026-11-05,"Wayanad, Kerala",Kerala,18.8,1.4,66,Clear & Sunny,0.95
+2026-11-05,"Nilgiris, Tamil Nadu",Tamil Nadu,17.8,3.5,73,Clear & Sunny,0.91
+2026-11-05,"Sundarbans, West Bengal",West Bengal,20.9,1.7,60,Clear & Sunny,0.94
+2026-11-05,"Coorg, Karnataka",Karnataka,20.7,0.2,69,Clear & Sunny,0.96
+2026-11-06,"Wayanad, Kerala",Kerala,25.4,2.9,71,Clear & Sunny,0.95
+2026-11-06,"Nilgiris, Tamil Nadu",Tamil Nadu,17.5,1.2,70,Clear & Sunny,1.0
+2026-11-06,"Sundarbans, West Bengal",West Bengal,20.4,2.7,62,Clear & Sunny,0.93
+2026-11-06,"Coorg, Karnataka",Karnataka,18.6,0.2,56,Clear & Sunny,0.95
+2026-11-07,"Wayanad, Kerala",Kerala,21.7,1.7,73,Clear & Sunny,0.94
+2026-11-07,"Nilgiris, Tamil Nadu",Tamil Nadu,20.1,2.3,55,Pleasant Breeze,0.97
+2026-11-07,"Sundarbans, West Bengal",West Bengal,19.5,0.7,67,Pleasant Breeze,0.94
+2026-11-07,"Coorg, Karnataka",Karnataka,20.5,2.8,69,Clear & Sunny,0.94
+2026-11-08,"Wayanad, Kerala",Kerala,20.7,3.2,60,Pleasant Breeze,0.91
+2026-11-08,"Nilgiris, Tamil Nadu",Tamil Nadu,16.1,3.9,58,Clear & Sunny,0.9
+2026-11-08,"Sundarbans, West Bengal",West Bengal,18.1,1.6,75,Clear & Sunny,0.97
+2026-11-08,"Coorg, Karnataka",Karnataka,25.7,3.5,74,Clear & Sunny,0.93
+2026-11-09,"Wayanad, Kerala",Kerala,22.9,3.3,67,Clear & Sunny,0.91
+2026-11-09,"Nilgiris, Tamil Nadu",Tamil Nadu,15.5,0.5,55,Clear & Sunny,0.92
+2026-11-09,"Sundarbans, West Bengal",West Bengal,21.8,0.1,59,Clear & Sunny,0.94
+2026-11-09,"Coorg, Karnataka",Karnataka,24.3,2.5,61,Pleasant Breeze,0.98
+2026-11-10,"Wayanad, Kerala",Kerala,21.4,0.6,58,Pleasant Breeze,0.92
+2026-11-10,"Nilgiris, Tamil Nadu",Tamil Nadu,21.7,2.8,70,Pleasant Breeze,0.94
+2026-11-10,"Sundarbans, West Bengal",West Bengal,20.4,1.0,67,Pleasant Breeze,0.9
+2026-11-10,"Coorg, Karnataka",Karnataka,23.7,2.5,68,Clear & Sunny,0.97
+2026-11-11,"Wayanad, Kerala",Kerala,22.4,2.4,64,Pleasant Breeze,0.94
+2026-11-11,"Nilgiris, Tamil Nadu",Tamil Nadu,19.8,2.1,70,Pleasant Breeze,0.91
+2026-11-11,"Sundarbans, West Bengal",West Bengal,22.6,0.1,72,Pleasant Breeze,0.99
+2026-11-11,"Coorg, Karnataka",Karnataka,21.8,1.7,70,Clear & Sunny,0.96
+2026-11-12,"Wayanad, Kerala",Kerala,21.5,1.8,60,Clear & Sunny,0.92
+2026-11-12,"Nilgiris, Tamil Nadu",Tamil Nadu,15.9,1.4,62,Clear & Sunny,0.97
+2026-11-12,"Sundarbans, West Bengal",West Bengal,24.8,3.7,69,Pleasant Breeze,0.93
+2026-11-12,"Coorg, Karnataka",Karnataka,25.7,2.8,75,Clear & Sunny,0.98
+2026-11-13,"Wayanad, Kerala",Kerala,24.8,3.2,74,Pleasant Breeze,0.97
+2026-11-13,"Nilgiris, Tamil Nadu",Tamil Nadu,17.9,0.3,60,Pleasant Breeze,0.96
+2026-11-13,"Sundarbans, West Bengal",West Bengal,21.3,0.4,70,Clear & Sunny,0.92
+2026-11-13,"Coorg, Karnataka",Karnataka,18.1,0.2,63,Clear & Sunny,0.92
+2026-11-14,"Wayanad, Kerala",Kerala,25.2,3.3,56,Clear & Sunny,0.93
+2026-11-14,"Nilgiris, Tamil Nadu",Tamil Nadu,15.8,0.5,72,Pleasant Breeze,0.93
+2026-11-14,"Sundarbans, West Bengal",West Bengal,20.8,1.4,56,Clear & Sunny,0.96
+2026-11-14,"Coorg, Karnataka",Karnataka,24.8,3.6,71,Clear & Sunny,0.91
+2026-11-15,"Wayanad, Kerala",Kerala,25.6,0.2,69,Clear & Sunny,0.98
+2026-11-15,"Nilgiris, Tamil Nadu",Tamil Nadu,20.3,3.9,74,Clear & Sunny,0.99
+2026-11-15,"Sundarbans, West Bengal",West Bengal,18.3,3.3,58,Pleasant Breeze,0.91
+2026-11-15,"Coorg, Karnataka",Karnataka,20.9,0.8,64,Clear & Sunny,0.98

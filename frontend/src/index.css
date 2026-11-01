@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background-color: #F8F6F0; /* Warm ivory/cream background */
+  color: #1D2939; /* Deep charcoal */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Premium micro-interactions & smooth transitions */
+* {
+  border-color: #E8ECE8;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F4F7F4;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C3DFCE;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #9BCAB0;
+}
+
+/* Premium glassmorphism & card styles */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(225, 239, 231, 0.85);
+}
+
+.premium-card {
+  background: #FFFFFF;
+  border: 1px solid #E8ECE8;
+  border-radius: 1.25rem;
+  box-shadow: 0 1px 3px 0 rgba(16, 24, 40, 0.03), 0 1px 2px -1px rgba(16, 24, 40, 0.03);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.premium-card:hover {
+  box-shadow: 0 10px 25px -5px rgba(14, 36, 27, 0.06), 0 8px 10px -6px rgba(14, 36, 27, 0.03);
+  border-color: #D5DDD6;
+}
+
+/* Linear-inspired subtle gradients & badges */
+.badge-forest {
+  background-color: #E1EFE7;
+  color: #143526;
+  border: 1px solid #C3DFCE;
+}
+
+.badge-emerald {
+  background-color: #D1FAE5;
+  color: #064E3B;
+  border: 1px solid #A7F3D0;
+}
+
+.badge-amber {
+  background-color: #FEF3C7;
+  color: #78350F;
+  border: 1px solid #FDE68A;
+}
+
+/* Button micro-interactions */
+.btn-primary {
+  background-color: #143526;
+  color: #FFFFFF;
+  font-weight: 600;
+  transition: all 0.15s ease-in-out;
+  box-shadow: 0 1px 2px 0 rgba(16, 24, 40, 0.08);
+}
+
+.btn-primary:hover {
+  background-color: #0E241B;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px 0 rgba(20, 53, 38, 0.2);
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+/* Code & Numerical values */
+.font-mono-num {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}

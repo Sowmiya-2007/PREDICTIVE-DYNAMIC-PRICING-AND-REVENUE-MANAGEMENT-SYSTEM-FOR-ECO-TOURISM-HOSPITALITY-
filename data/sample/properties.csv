@@ -1,0 +1,5 @@
+id,name,location,state_or_region,eco_category,base_price,min_price,max_price,total_capacity,sustainability_rating
+1,Wayanad Canopy Rainforest Eco-Lodge,"Wayanad, Kerala",Kerala,Forest Eco-Lodge,4200.0,2500.0,9800.0,18,4.9
+2,Nilgiri Misty Peaks Sanctuary,"Nilgiris, Tamil Nadu",Tamil Nadu,Mountain Sanctuary,4800.0,2800.0,10500.0,20,4.8
+3,Sundarbans Mangrove Conservation Camp,"Sundarbans, West Bengal",West Bengal,Mangrove Retreat,3200.0,1900.0,7500.0,14,4.7
+4,Coorg Shade-Grown Organic Coffee Retreat,"Coorg, Karnataka",Karnataka,Organic Farm Homestay,3600.0,2200.0,8500.0,16,4.85
